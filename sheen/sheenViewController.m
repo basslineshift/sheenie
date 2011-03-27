@@ -81,6 +81,29 @@
     [audioDictionary setValue:@"wowWinning.mp3" forKey:@"wowWinning"];
     [audioDictionary setValue:@"yeah.mp3" forKey:@"yeah"];
     [audioDictionary setValue:@"youBorrowMyBrain.mp3" forKey:@"youBorrowMyBrain"];
+    [audioDictionary setValue:@"addicted_to_charlie_sheen.mp3" forKey:@"addicted_to_charlie_sheen"];
+    [audioDictionary setValue:@"addicted_to_winning.mp3" forKey:@"addicted_to_winning"];
+    [audioDictionary setValue:@"amateurs_bible_grippers.mp3" forKey:@"amateurs_bible_grippers"];
+    [audioDictionary setValue:@"battle_tested_bayonets.mp3" forKey:@"battle_tested_bayonets"];
+    [audioDictionary setValue:@"bible_grippers.mp3" forKey:@"bible_grippers"];
+    [audioDictionary setValue:@"bingo.mp3" forKey:@"bingo"];
+    [audioDictionary setValue:@"black_bart.mp3" forKey:@"black_bart"];
+    [audioDictionary setValue:@"boom.mp3" forKey:@"boom"];
+    [audioDictionary setValue:@"bring_it.mp3" forKey:@"bring_it"];
+    [audioDictionary setValue:@"bring_me_a_challenge.mp3" forKey:@"bring_me_a_challenge"];
+    [audioDictionary setValue:@"cant_process_it.mp3" forKey:@"cant_process_it"];
+    [audioDictionary setValue:@"cured_with_my_brain.mp3" forKey:@"cured_with_my_brain"];
+    [audioDictionary setValue:@"deep_in_the_trenches.mp3" forKey:@"deep_in_the_trenches"];
+    [audioDictionary setValue:@"deploy_my_ordinates.mp3" forKey:@"deploy_my_ordinates"];
+    [audioDictionary setValue:@"dont_be_special.mp3" forKey:@"dont_be_special"];
+    [audioDictionary setValue:@"f18_bro.mp3" forKey:@"f18_bro"];
+    [audioDictionary setValue:@"fools_and_trolls.mp3" forKey:@"fools_and_trolls"];
+    [audioDictionary setValue:@"in_the_orca.mp3" forKey:@"in_the_orca"];
+    [audioDictionary setValue:@"like_the_view.mp3" forKey:@"like_the_view"];
+    [audioDictionary setValue:@"magic.mp3" forKey:@"magic"];
+    [audioDictionary setValue:@"strafing_runs_in_underwear.mp3" forKey:@"strafing_runs_in_underwear"];
+    [audioDictionary setValue:@"whats_the_cure.mp3" forKey:@"whats_the_cure"];
+
     
     // create arrays to access randomly
     audioArray = [[NSArray alloc] initWithArray:[audioDictionary allKeys]];

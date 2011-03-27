@@ -7,6 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		312CD9C1133FA971007E4EAC /* addicted_to_charlie_sheen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9AA133FA971007E4EAC /* addicted_to_charlie_sheen.mp3 */; };
+		312CD9C2133FA971007E4EAC /* addicted_to_winning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9AB133FA971007E4EAC /* addicted_to_winning.mp3 */; };
+		312CD9C3133FA971007E4EAC /* amateurs_bible_grippers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9AC133FA971007E4EAC /* amateurs_bible_grippers.mp3 */; };
+		312CD9C5133FA971007E4EAC /* battle_tested_bayonets.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9AE133FA971007E4EAC /* battle_tested_bayonets.mp3 */; };
+		312CD9C6133FA971007E4EAC /* bible_grippers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9AF133FA971007E4EAC /* bible_grippers.mp3 */; };
+		312CD9C7133FA971007E4EAC /* bingo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B0133FA971007E4EAC /* bingo.mp3 */; };
+		312CD9C8133FA971007E4EAC /* black_bart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B1133FA971007E4EAC /* black_bart.mp3 */; };
+		312CD9C9133FA971007E4EAC /* boom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B2133FA971007E4EAC /* boom.mp3 */; };
+		312CD9CA133FA971007E4EAC /* bring_it.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B3133FA971007E4EAC /* bring_it.mp3 */; };
+		312CD9CB133FA971007E4EAC /* bring_me_a_challenge.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B4133FA971007E4EAC /* bring_me_a_challenge.mp3 */; };
+		312CD9CC133FA971007E4EAC /* cant_process_it.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B5133FA971007E4EAC /* cant_process_it.mp3 */; };
+		312CD9CD133FA971007E4EAC /* cured_with_my_brain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B6133FA971007E4EAC /* cured_with_my_brain.mp3 */; };
+		312CD9CE133FA971007E4EAC /* deep_in_the_trenches.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B7133FA971007E4EAC /* deep_in_the_trenches.mp3 */; };
+		312CD9CF133FA971007E4EAC /* deploy_my_ordinates.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B8133FA971007E4EAC /* deploy_my_ordinates.mp3 */; };
+		312CD9D0133FA971007E4EAC /* dont_be_special.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9B9133FA971007E4EAC /* dont_be_special.mp3 */; };
+		312CD9D1133FA971007E4EAC /* f18_bro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9BA133FA971007E4EAC /* f18_bro.mp3 */; };
+		312CD9D2133FA971007E4EAC /* fools_and_trolls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9BB133FA971007E4EAC /* fools_and_trolls.mp3 */; };
+		312CD9D3133FA971007E4EAC /* in_the_orca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9BC133FA971007E4EAC /* in_the_orca.mp3 */; };
+		312CD9D4133FA971007E4EAC /* like_the_view.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9BD133FA971007E4EAC /* like_the_view.mp3 */; };
+		312CD9D5133FA971007E4EAC /* magic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9BE133FA971007E4EAC /* magic.mp3 */; };
+		312CD9D6133FA971007E4EAC /* strafing_runs_in_underwear.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9BF133FA971007E4EAC /* strafing_runs_in_underwear.mp3 */; };
+		312CD9D7133FA971007E4EAC /* whats_the_cure.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 312CD9C0133FA971007E4EAC /* whats_the_cure.mp3 */; };
 		31428FD2132DE51C0091C184 /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 31428FD0132DE51C0091C184 /* MainWindow-iPad.xib */; };
 		31D7F287132DC32200F25469 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D7F286132DC32200F25469 /* UIKit.framework */; };
 		31D7F289132DC32200F25469 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D7F288132DC32200F25469 /* Foundation.framework */; };
@@ -80,6 +102,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		312CD9AA133FA971007E4EAC /* addicted_to_charlie_sheen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = addicted_to_charlie_sheen.mp3; path = sheenquotes/addicted_to_charlie_sheen.mp3; sourceTree = "<group>"; };
+		312CD9AB133FA971007E4EAC /* addicted_to_winning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = addicted_to_winning.mp3; path = sheenquotes/addicted_to_winning.mp3; sourceTree = "<group>"; };
+		312CD9AC133FA971007E4EAC /* amateurs_bible_grippers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = amateurs_bible_grippers.mp3; path = sheenquotes/amateurs_bible_grippers.mp3; sourceTree = "<group>"; };
+		312CD9AE133FA971007E4EAC /* battle_tested_bayonets.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = battle_tested_bayonets.mp3; path = sheenquotes/battle_tested_bayonets.mp3; sourceTree = "<group>"; };
+		312CD9AF133FA971007E4EAC /* bible_grippers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = bible_grippers.mp3; path = sheenquotes/bible_grippers.mp3; sourceTree = "<group>"; };
+		312CD9B0133FA971007E4EAC /* bingo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = bingo.mp3; path = sheenquotes/bingo.mp3; sourceTree = "<group>"; };
+		312CD9B1133FA971007E4EAC /* black_bart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = black_bart.mp3; path = sheenquotes/black_bart.mp3; sourceTree = "<group>"; };
+		312CD9B2133FA971007E4EAC /* boom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = boom.mp3; path = sheenquotes/boom.mp3; sourceTree = "<group>"; };
+		312CD9B3133FA971007E4EAC /* bring_it.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = bring_it.mp3; path = sheenquotes/bring_it.mp3; sourceTree = "<group>"; };
+		312CD9B4133FA971007E4EAC /* bring_me_a_challenge.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = bring_me_a_challenge.mp3; path = sheenquotes/bring_me_a_challenge.mp3; sourceTree = "<group>"; };
+		312CD9B5133FA971007E4EAC /* cant_process_it.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = cant_process_it.mp3; path = sheenquotes/cant_process_it.mp3; sourceTree = "<group>"; };
+		312CD9B6133FA971007E4EAC /* cured_with_my_brain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = cured_with_my_brain.mp3; path = sheenquotes/cured_with_my_brain.mp3; sourceTree = "<group>"; };
+		312CD9B7133FA971007E4EAC /* deep_in_the_trenches.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = deep_in_the_trenches.mp3; path = sheenquotes/deep_in_the_trenches.mp3; sourceTree = "<group>"; };
+		312CD9B8133FA971007E4EAC /* deploy_my_ordinates.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = deploy_my_ordinates.mp3; path = sheenquotes/deploy_my_ordinates.mp3; sourceTree = "<group>"; };
+		312CD9B9133FA971007E4EAC /* dont_be_special.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = dont_be_special.mp3; path = sheenquotes/dont_be_special.mp3; sourceTree = "<group>"; };
+		312CD9BA133FA971007E4EAC /* f18_bro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = f18_bro.mp3; path = sheenquotes/f18_bro.mp3; sourceTree = "<group>"; };
+		312CD9BB133FA971007E4EAC /* fools_and_trolls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = fools_and_trolls.mp3; path = sheenquotes/fools_and_trolls.mp3; sourceTree = "<group>"; };
+		312CD9BC133FA971007E4EAC /* in_the_orca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = in_the_orca.mp3; path = sheenquotes/in_the_orca.mp3; sourceTree = "<group>"; };
+		312CD9BD133FA971007E4EAC /* like_the_view.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = like_the_view.mp3; path = sheenquotes/like_the_view.mp3; sourceTree = "<group>"; };
+		312CD9BE133FA971007E4EAC /* magic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = magic.mp3; path = sheenquotes/magic.mp3; sourceTree = "<group>"; };
+		312CD9BF133FA971007E4EAC /* strafing_runs_in_underwear.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = strafing_runs_in_underwear.mp3; path = sheenquotes/strafing_runs_in_underwear.mp3; sourceTree = "<group>"; };
+		312CD9C0133FA971007E4EAC /* whats_the_cure.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = whats_the_cure.mp3; path = sheenquotes/whats_the_cure.mp3; sourceTree = "<group>"; };
 		31428FD1132DE51C0091C184 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "iPad/en.lproj/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		31D7F282132DC32200F25469 /* sheen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sheen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31D7F286132DC32200F25469 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -261,6 +305,28 @@
 		31D7F2BF132DC5F800F25469 /* audio */ = {
 			isa = PBXGroup;
 			children = (
+				312CD9AA133FA971007E4EAC /* addicted_to_charlie_sheen.mp3 */,
+				312CD9AB133FA971007E4EAC /* addicted_to_winning.mp3 */,
+				312CD9AC133FA971007E4EAC /* amateurs_bible_grippers.mp3 */,
+				312CD9AE133FA971007E4EAC /* battle_tested_bayonets.mp3 */,
+				312CD9AF133FA971007E4EAC /* bible_grippers.mp3 */,
+				312CD9B0133FA971007E4EAC /* bingo.mp3 */,
+				312CD9B1133FA971007E4EAC /* black_bart.mp3 */,
+				312CD9B2133FA971007E4EAC /* boom.mp3 */,
+				312CD9B3133FA971007E4EAC /* bring_it.mp3 */,
+				312CD9B4133FA971007E4EAC /* bring_me_a_challenge.mp3 */,
+				312CD9B5133FA971007E4EAC /* cant_process_it.mp3 */,
+				312CD9B6133FA971007E4EAC /* cured_with_my_brain.mp3 */,
+				312CD9B7133FA971007E4EAC /* deep_in_the_trenches.mp3 */,
+				312CD9B8133FA971007E4EAC /* deploy_my_ordinates.mp3 */,
+				312CD9B9133FA971007E4EAC /* dont_be_special.mp3 */,
+				312CD9BA133FA971007E4EAC /* f18_bro.mp3 */,
+				312CD9BB133FA971007E4EAC /* fools_and_trolls.mp3 */,
+				312CD9BC133FA971007E4EAC /* in_the_orca.mp3 */,
+				312CD9BD133FA971007E4EAC /* like_the_view.mp3 */,
+				312CD9BE133FA971007E4EAC /* magic.mp3 */,
+				312CD9BF133FA971007E4EAC /* strafing_runs_in_underwear.mp3 */,
+				312CD9C0133FA971007E4EAC /* whats_the_cure.mp3 */,
 				31D7F2D3132DC69100F25469 /* andThenLikeThis.mp3 */,
 				31D7F2D4132DC69100F25469 /* bangingSevenGramRocks.mp3 */,
 				31D7F2D5132DC69100F25469 /* bingo.mp3 */,
@@ -429,6 +495,28 @@
 				31D7F316132DC69100F25469 /* youBorrowMyBrain.mp3 in Resources */,
 				31D7F31A132DE4BC00F25469 /* Sheen6.jpg in Resources */,
 				31428FD2132DE51C0091C184 /* MainWindow-iPad.xib in Resources */,
+				312CD9C1133FA971007E4EAC /* addicted_to_charlie_sheen.mp3 in Resources */,
+				312CD9C2133FA971007E4EAC /* addicted_to_winning.mp3 in Resources */,
+				312CD9C3133FA971007E4EAC /* amateurs_bible_grippers.mp3 in Resources */,
+				312CD9C5133FA971007E4EAC /* battle_tested_bayonets.mp3 in Resources */,
+				312CD9C6133FA971007E4EAC /* bible_grippers.mp3 in Resources */,
+				312CD9C7133FA971007E4EAC /* bingo.mp3 in Resources */,
+				312CD9C8133FA971007E4EAC /* black_bart.mp3 in Resources */,
+				312CD9C9133FA971007E4EAC /* boom.mp3 in Resources */,
+				312CD9CA133FA971007E4EAC /* bring_it.mp3 in Resources */,
+				312CD9CB133FA971007E4EAC /* bring_me_a_challenge.mp3 in Resources */,
+				312CD9CC133FA971007E4EAC /* cant_process_it.mp3 in Resources */,
+				312CD9CD133FA971007E4EAC /* cured_with_my_brain.mp3 in Resources */,
+				312CD9CE133FA971007E4EAC /* deep_in_the_trenches.mp3 in Resources */,
+				312CD9CF133FA971007E4EAC /* deploy_my_ordinates.mp3 in Resources */,
+				312CD9D0133FA971007E4EAC /* dont_be_special.mp3 in Resources */,
+				312CD9D1133FA971007E4EAC /* f18_bro.mp3 in Resources */,
+				312CD9D2133FA971007E4EAC /* fools_and_trolls.mp3 in Resources */,
+				312CD9D3133FA971007E4EAC /* in_the_orca.mp3 in Resources */,
+				312CD9D4133FA971007E4EAC /* like_the_view.mp3 in Resources */,
+				312CD9D5133FA971007E4EAC /* magic.mp3 in Resources */,
+				312CD9D6133FA971007E4EAC /* strafing_runs_in_underwear.mp3 in Resources */,
+				312CD9D7133FA971007E4EAC /* whats_the_cure.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
