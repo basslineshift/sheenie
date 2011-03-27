@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		31428FD2132DE51C0091C184 /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 31428FD0132DE51C0091C184 /* MainWindow-iPad.xib */; };
 		31D7F287132DC32200F25469 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D7F286132DC32200F25469 /* UIKit.framework */; };
 		31D7F289132DC32200F25469 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D7F288132DC32200F25469 /* Foundation.framework */; };
 		31D7F28B132DC32200F25469 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D7F28A132DC32200F25469 /* CoreGraphics.framework */; };
@@ -22,6 +23,50 @@
 		31D7F2B1132DC32300F25469 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2AF132DC32300F25469 /* InfoPlist.strings */; };
 		31D7F2B4132DC32300F25469 /* sheenTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2B3132DC32300F25469 /* sheenTests.h */; };
 		31D7F2B6132DC32300F25469 /* sheenTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 31D7F2B5132DC32300F25469 /* sheenTests.m */; };
+		31D7F2CA132DC65400F25469 /* Sheen1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C1132DC65400F25469 /* Sheen1.jpg */; };
+		31D7F2CB132DC65400F25469 /* Sheen2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C2132DC65400F25469 /* Sheen2.jpg */; };
+		31D7F2CC132DC65400F25469 /* Sheen3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C3132DC65400F25469 /* Sheen3.jpg */; };
+		31D7F2CD132DC65400F25469 /* Sheen4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C4132DC65400F25469 /* Sheen4.jpg */; };
+		31D7F2CE132DC65400F25469 /* Sheen5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C5132DC65400F25469 /* Sheen5.jpg */; };
+		31D7F2CF132DC65400F25469 /* Sheen7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C6132DC65400F25469 /* Sheen7.jpg */; };
+		31D7F2D0132DC65400F25469 /* Sheen8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C7132DC65400F25469 /* Sheen8.jpg */; };
+		31D7F2D1132DC65400F25469 /* Sheen9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C8132DC65400F25469 /* Sheen9.jpg */; };
+		31D7F2D2132DC65400F25469 /* Sheen0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2C9132DC65400F25469 /* Sheen0.jpg */; };
+		31D7F2F5132DC69100F25469 /* andThenLikeThis.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2D3132DC69100F25469 /* andThenLikeThis.mp3 */; };
+		31D7F2F6132DC69100F25469 /* bangingSevenGramRocks.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2D4132DC69100F25469 /* bangingSevenGramRocks.mp3 */; };
+		31D7F2F7132DC69100F25469 /* bingo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2D5132DC69100F25469 /* bingo.mp3 */; };
+		31D7F2F8132DC69100F25469 /* cantIsTheCancerOfHappen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2D6132DC69100F25469 /* cantIsTheCancerOfHappen.mp3 */; };
+		31D7F2F9132DC69100F25469 /* dontRememberDontCare.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2D7132DC69100F25469 /* dontRememberDontCare.mp3 */; };
+		31D7F2FA132DC69100F25469 /* droopyEyedArmlessChildren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2D8132DC69100F25469 /* droopyEyedArmlessChildren.mp3 */; };
+		31D7F2FB132DC69100F25469 /* drugTestsDontLie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2D9132DC69100F25469 /* drugTestsDontLie.mp3 */; };
+		31D7F2FC132DC69100F25469 /* dyingsForFools.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2DA132DC69100F25469 /* dyingsForFools.mp3 */; };
+		31D7F2FD132DC69100F25469 /* go.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2DB132DC69100F25469 /* go.mp3 */; };
+		31D7F2FE132DC69100F25469 /* godNo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2DC132DC69100F25469 /* godNo.mp3 */; };
+		31D7F2FF132DC69100F25469 /* iDontKnowMan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2DD132DC69100F25469 /* iDontKnowMan.mp3 */; };
+		31D7F300132DC69100F25469 /* imBiWinning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2DE132DC69100F25469 /* imBiWinning.mp3 */; };
+		31D7F301132DC69100F25469 /* iMissedPractice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2DF132DC69100F25469 /* iMissedPractice.mp3 */; };
+		31D7F302132DC69100F25469 /* imOnADrugCalledCharlieSheen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E0132DC69100F25469 /* imOnADrugCalledCharlieSheen.mp3 */; };
+		31D7F303132DC69100F25469 /* imTalkingAboutPractice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E1132DC69100F25469 /* imTalkingAboutPractice.mp3 */; };
+		31D7F304132DC69100F25469 /* itsNotAvailable.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E2132DC69100F25469 /* itsNotAvailable.mp3 */; };
+		31D7F305132DC69100F25469 /* itWasEpic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E3132DC69100F25469 /* itWasEpic.mp3 */; };
+		31D7F306132DC69100F25469 /* justDoIt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E4132DC69100F25469 /* justDoIt.mp3 */; };
+		31D7F307132DC69100F25469 /* lastTimeITookDrugs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E5132DC69100F25469 /* lastTimeITookDrugs.mp3 */; };
+		31D7F308132DC69100F25469 /* lookatme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E6132DC69100F25469 /* lookatme.mp3 */; };
+		31D7F309132DC69100F25469 /* myPassion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E7132DC69100F25469 /* myPassion.mp3 */; };
+		31D7F30A132DC69100F25469 /* notFromThisTerrestrialRealm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E8132DC69100F25469 /* notFromThisTerrestrialRealm.mp3 */; };
+		31D7F30B132DC69100F25469 /* oneSpeedOneGear.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2E9132DC69100F25469 /* oneSpeedOneGear.mp3 */; };
+		31D7F30C132DC69100F25469 /* passion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2EA132DC69100F25469 /* passion.mp3 */; };
+		31D7F30D132DC69100F25469 /* scoreBoardDoesntLie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2EB132DC69100F25469 /* scoreBoardDoesntLie.mp3 */; };
+		31D7F30E132DC69100F25469 /* thatsHowIRoll.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2EC132DC69100F25469 /* thatsHowIRoll.mp3 */; };
+		31D7F30F132DC69100F25469 /* theNikeSlogan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2ED132DC69100F25469 /* theNikeSlogan.mp3 */; };
+		31D7F310132DC69100F25469 /* uhOk.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2EE132DC69100F25469 /* uhOk.mp3 */; };
+		31D7F311132DC69100F25469 /* um.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2EF132DC69100F25469 /* um.mp3 */; };
+		31D7F313132DC69100F25469 /* wowWhatDoesThatMean.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2F1132DC69100F25469 /* wowWhatDoesThatMean.mp3 */; };
+		31D7F314132DC69100F25469 /* wowWinning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2F2132DC69100F25469 /* wowWinning.mp3 */; };
+		31D7F315132DC69100F25469 /* yeah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2F3132DC69100F25469 /* yeah.mp3 */; };
+		31D7F316132DC69100F25469 /* youBorrowMyBrain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2F4132DC69100F25469 /* youBorrowMyBrain.mp3 */; };
+		31D7F318132DC7DA00F25469 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D7F317132DC7D900F25469 /* AVFoundation.framework */; };
+		31D7F31A132DE4BC00F25469 /* Sheen6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F319132DE4BC00F25469 /* Sheen6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,26 +80,71 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		31428FD1132DE51C0091C184 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "iPad/en.lproj/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		31D7F282132DC32200F25469 /* sheen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sheen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31D7F286132DC32200F25469 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		31D7F288132DC32200F25469 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		31D7F28A132DC32200F25469 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		31D7F28E132DC32200F25469 /* sheen-Info.plist */ = {isa = PBXFileReference; path = "sheen-Info.plist"; sourceTree = "<group>"; };
+		31D7F28E132DC32200F25469 /* sheen-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "sheen-Info.plist"; sourceTree = "<group>"; };
 		31D7F290132DC32200F25469 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		31D7F292132DC32200F25469 /* sheen-Prefix.pch */ = {isa = PBXFileReference; path = "sheen-Prefix.pch"; sourceTree = "<group>"; };
+		31D7F292132DC32200F25469 /* sheen-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "sheen-Prefix.pch"; sourceTree = "<group>"; };
 		31D7F293132DC32200F25469 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		31D7F295132DC32200F25469 /* sheenAppDelegate.h */ = {isa = PBXFileReference; path = sheenAppDelegate.h; sourceTree = "<group>"; };
+		31D7F295132DC32200F25469 /* sheenAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sheenAppDelegate.h; sourceTree = "<group>"; };
 		31D7F296132DC32200F25469 /* sheenAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sheenAppDelegate.m; sourceTree = "<group>"; };
 		31D7F299132DC32200F25469 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		31D7F29B132DC32200F25469 /* sheenViewController.h */ = {isa = PBXFileReference; path = sheenViewController.h; sourceTree = "<group>"; };
+		31D7F29B132DC32200F25469 /* sheenViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sheenViewController.h; sourceTree = "<group>"; };
 		31D7F29C132DC32200F25469 /* sheenViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sheenViewController.m; sourceTree = "<group>"; };
 		31D7F29F132DC32200F25469 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/sheenViewController.xib; sourceTree = "<group>"; };
 		31D7F2A6132DC32300F25469 /* sheenTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sheenTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		31D7F2AE132DC32300F25469 /* sheenTests-Info.plist */ = {isa = PBXFileReference; path = "sheenTests-Info.plist"; sourceTree = "<group>"; };
+		31D7F2AE132DC32300F25469 /* sheenTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "sheenTests-Info.plist"; sourceTree = "<group>"; };
 		31D7F2B0132DC32300F25469 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		31D7F2B2132DC32300F25469 /* sheenTests-Prefix.pch */ = {isa = PBXFileReference; path = "sheenTests-Prefix.pch"; sourceTree = "<group>"; };
+		31D7F2B2132DC32300F25469 /* sheenTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "sheenTests-Prefix.pch"; sourceTree = "<group>"; };
 		31D7F2B3132DC32300F25469 /* sheenTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sheenTests.h; sourceTree = "<group>"; };
 		31D7F2B5132DC32300F25469 /* sheenTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sheenTests.m; sourceTree = "<group>"; };
+		31D7F2C1132DC65400F25469 /* Sheen1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen1.jpg; sourceTree = "<group>"; };
+		31D7F2C2132DC65400F25469 /* Sheen2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen2.jpg; sourceTree = "<group>"; };
+		31D7F2C3132DC65400F25469 /* Sheen3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen3.jpg; sourceTree = "<group>"; };
+		31D7F2C4132DC65400F25469 /* Sheen4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen4.jpg; sourceTree = "<group>"; };
+		31D7F2C5132DC65400F25469 /* Sheen5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen5.jpg; sourceTree = "<group>"; };
+		31D7F2C6132DC65400F25469 /* Sheen7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen7.jpg; sourceTree = "<group>"; };
+		31D7F2C7132DC65400F25469 /* Sheen8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen8.jpg; sourceTree = "<group>"; };
+		31D7F2C8132DC65400F25469 /* Sheen9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen9.jpg; sourceTree = "<group>"; };
+		31D7F2C9132DC65400F25469 /* Sheen0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen0.jpg; sourceTree = "<group>"; };
+		31D7F2D3132DC69100F25469 /* andThenLikeThis.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = andThenLikeThis.mp3; sourceTree = "<group>"; };
+		31D7F2D4132DC69100F25469 /* bangingSevenGramRocks.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bangingSevenGramRocks.mp3; sourceTree = "<group>"; };
+		31D7F2D5132DC69100F25469 /* bingo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bingo.mp3; sourceTree = "<group>"; };
+		31D7F2D6132DC69100F25469 /* cantIsTheCancerOfHappen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = cantIsTheCancerOfHappen.mp3; sourceTree = "<group>"; };
+		31D7F2D7132DC69100F25469 /* dontRememberDontCare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dontRememberDontCare.mp3; sourceTree = "<group>"; };
+		31D7F2D8132DC69100F25469 /* droopyEyedArmlessChildren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = droopyEyedArmlessChildren.mp3; sourceTree = "<group>"; };
+		31D7F2D9132DC69100F25469 /* drugTestsDontLie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = drugTestsDontLie.mp3; sourceTree = "<group>"; };
+		31D7F2DA132DC69100F25469 /* dyingsForFools.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dyingsForFools.mp3; sourceTree = "<group>"; };
+		31D7F2DB132DC69100F25469 /* go.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = go.mp3; sourceTree = "<group>"; };
+		31D7F2DC132DC69100F25469 /* godNo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = godNo.mp3; sourceTree = "<group>"; };
+		31D7F2DD132DC69100F25469 /* iDontKnowMan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iDontKnowMan.mp3; sourceTree = "<group>"; };
+		31D7F2DE132DC69100F25469 /* imBiWinning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = imBiWinning.mp3; sourceTree = "<group>"; };
+		31D7F2DF132DC69100F25469 /* iMissedPractice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iMissedPractice.mp3; sourceTree = "<group>"; };
+		31D7F2E0132DC69100F25469 /* imOnADrugCalledCharlieSheen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = imOnADrugCalledCharlieSheen.mp3; sourceTree = "<group>"; };
+		31D7F2E1132DC69100F25469 /* imTalkingAboutPractice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = imTalkingAboutPractice.mp3; sourceTree = "<group>"; };
+		31D7F2E2132DC69100F25469 /* itsNotAvailable.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = itsNotAvailable.mp3; sourceTree = "<group>"; };
+		31D7F2E3132DC69100F25469 /* itWasEpic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = itWasEpic.mp3; sourceTree = "<group>"; };
+		31D7F2E4132DC69100F25469 /* justDoIt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = justDoIt.mp3; sourceTree = "<group>"; };
+		31D7F2E5132DC69100F25469 /* lastTimeITookDrugs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lastTimeITookDrugs.mp3; sourceTree = "<group>"; };
+		31D7F2E6132DC69100F25469 /* lookatme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lookatme.mp3; sourceTree = "<group>"; };
+		31D7F2E7132DC69100F25469 /* myPassion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = myPassion.mp3; sourceTree = "<group>"; };
+		31D7F2E8132DC69100F25469 /* notFromThisTerrestrialRealm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = notFromThisTerrestrialRealm.mp3; sourceTree = "<group>"; };
+		31D7F2E9132DC69100F25469 /* oneSpeedOneGear.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oneSpeedOneGear.mp3; sourceTree = "<group>"; };
+		31D7F2EA132DC69100F25469 /* passion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = passion.mp3; sourceTree = "<group>"; };
+		31D7F2EB132DC69100F25469 /* scoreBoardDoesntLie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = scoreBoardDoesntLie.mp3; sourceTree = "<group>"; };
+		31D7F2EC132DC69100F25469 /* thatsHowIRoll.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thatsHowIRoll.mp3; sourceTree = "<group>"; };
+		31D7F2ED132DC69100F25469 /* theNikeSlogan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = theNikeSlogan.mp3; sourceTree = "<group>"; };
+		31D7F2EE132DC69100F25469 /* uhOk.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = uhOk.mp3; sourceTree = "<group>"; };
+		31D7F2EF132DC69100F25469 /* um.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = um.mp3; sourceTree = "<group>"; };
+		31D7F2F1132DC69100F25469 /* wowWhatDoesThatMean.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wowWhatDoesThatMean.mp3; sourceTree = "<group>"; };
+		31D7F2F2132DC69100F25469 /* wowWinning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wowWinning.mp3; sourceTree = "<group>"; };
+		31D7F2F3132DC69100F25469 /* yeah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yeah.mp3; sourceTree = "<group>"; };
+		31D7F2F4132DC69100F25469 /* youBorrowMyBrain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = youBorrowMyBrain.mp3; sourceTree = "<group>"; };
+		31D7F317132DC7D900F25469 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		31D7F319132DE4BC00F25469 /* Sheen6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +152,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31D7F318132DC7DA00F25469 /* AVFoundation.framework in Frameworks */,
 				31D7F287132DC32200F25469 /* UIKit.framework in Frameworks */,
 				31D7F289132DC32200F25469 /* Foundation.framework in Frameworks */,
 				31D7F28B132DC32200F25469 /* CoreGraphics.framework in Frameworks */,
@@ -81,6 +172,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		31428FCF132DE51B0091C184 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				31428FD0132DE51C0091C184 /* MainWindow-iPad.xib */,
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
 		31D7F277132DC32200F25469 = {
 			isa = PBXGroup;
 			children = (
@@ -103,6 +202,7 @@
 		31D7F285132DC32200F25469 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				31D7F317132DC7D900F25469 /* AVFoundation.framework */,
 				31D7F286132DC32200F25469 /* UIKit.framework */,
 				31D7F288132DC32200F25469 /* Foundation.framework */,
 				31D7F28A132DC32200F25469 /* CoreGraphics.framework */,
@@ -113,6 +213,7 @@
 		31D7F28C132DC32200F25469 /* sheen */ = {
 			isa = PBXGroup;
 			children = (
+				31428FCF132DE51B0091C184 /* iPad */,
 				31D7F295132DC32200F25469 /* sheenAppDelegate.h */,
 				31D7F296132DC32200F25469 /* sheenAppDelegate.m */,
 				31D7F298132DC32200F25469 /* MainWindow.xib */,
@@ -127,6 +228,8 @@
 		31D7F28D132DC32200F25469 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				31D7F2C0132DC60800F25469 /* images */,
+				31D7F2BF132DC5F800F25469 /* audio */,
 				31D7F28E132DC32200F25469 /* sheen-Info.plist */,
 				31D7F28F132DC32200F25469 /* InfoPlist.strings */,
 				31D7F292132DC32200F25469 /* sheen-Prefix.pch */,
@@ -153,6 +256,63 @@
 				31D7F2B2132DC32300F25469 /* sheenTests-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		31D7F2BF132DC5F800F25469 /* audio */ = {
+			isa = PBXGroup;
+			children = (
+				31D7F2D3132DC69100F25469 /* andThenLikeThis.mp3 */,
+				31D7F2D4132DC69100F25469 /* bangingSevenGramRocks.mp3 */,
+				31D7F2D5132DC69100F25469 /* bingo.mp3 */,
+				31D7F2D6132DC69100F25469 /* cantIsTheCancerOfHappen.mp3 */,
+				31D7F2D7132DC69100F25469 /* dontRememberDontCare.mp3 */,
+				31D7F2D8132DC69100F25469 /* droopyEyedArmlessChildren.mp3 */,
+				31D7F2D9132DC69100F25469 /* drugTestsDontLie.mp3 */,
+				31D7F2DA132DC69100F25469 /* dyingsForFools.mp3 */,
+				31D7F2DB132DC69100F25469 /* go.mp3 */,
+				31D7F2DC132DC69100F25469 /* godNo.mp3 */,
+				31D7F2DD132DC69100F25469 /* iDontKnowMan.mp3 */,
+				31D7F2DE132DC69100F25469 /* imBiWinning.mp3 */,
+				31D7F2DF132DC69100F25469 /* iMissedPractice.mp3 */,
+				31D7F2E0132DC69100F25469 /* imOnADrugCalledCharlieSheen.mp3 */,
+				31D7F2E1132DC69100F25469 /* imTalkingAboutPractice.mp3 */,
+				31D7F2E2132DC69100F25469 /* itsNotAvailable.mp3 */,
+				31D7F2E3132DC69100F25469 /* itWasEpic.mp3 */,
+				31D7F2E4132DC69100F25469 /* justDoIt.mp3 */,
+				31D7F2E5132DC69100F25469 /* lastTimeITookDrugs.mp3 */,
+				31D7F2E6132DC69100F25469 /* lookatme.mp3 */,
+				31D7F2E7132DC69100F25469 /* myPassion.mp3 */,
+				31D7F2E8132DC69100F25469 /* notFromThisTerrestrialRealm.mp3 */,
+				31D7F2E9132DC69100F25469 /* oneSpeedOneGear.mp3 */,
+				31D7F2EA132DC69100F25469 /* passion.mp3 */,
+				31D7F2EB132DC69100F25469 /* scoreBoardDoesntLie.mp3 */,
+				31D7F2EC132DC69100F25469 /* thatsHowIRoll.mp3 */,
+				31D7F2ED132DC69100F25469 /* theNikeSlogan.mp3 */,
+				31D7F2EE132DC69100F25469 /* uhOk.mp3 */,
+				31D7F2EF132DC69100F25469 /* um.mp3 */,
+				31D7F2F1132DC69100F25469 /* wowWhatDoesThatMean.mp3 */,
+				31D7F2F2132DC69100F25469 /* wowWinning.mp3 */,
+				31D7F2F3132DC69100F25469 /* yeah.mp3 */,
+				31D7F2F4132DC69100F25469 /* youBorrowMyBrain.mp3 */,
+			);
+			name = audio;
+			sourceTree = "<group>";
+		};
+		31D7F2C0132DC60800F25469 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				31D7F319132DE4BC00F25469 /* Sheen6.jpg */,
+				31D7F2C1132DC65400F25469 /* Sheen1.jpg */,
+				31D7F2C2132DC65400F25469 /* Sheen2.jpg */,
+				31D7F2C3132DC65400F25469 /* Sheen3.jpg */,
+				31D7F2C4132DC65400F25469 /* Sheen4.jpg */,
+				31D7F2C5132DC65400F25469 /* Sheen5.jpg */,
+				31D7F2C6132DC65400F25469 /* Sheen7.jpg */,
+				31D7F2C7132DC65400F25469 /* Sheen8.jpg */,
+				31D7F2C8132DC65400F25469 /* Sheen9.jpg */,
+				31D7F2C9132DC65400F25469 /* Sheen0.jpg */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -225,6 +385,50 @@
 				31D7F291132DC32200F25469 /* InfoPlist.strings in Resources */,
 				31D7F29A132DC32200F25469 /* MainWindow.xib in Resources */,
 				31D7F2A0132DC32200F25469 /* sheenViewController.xib in Resources */,
+				31D7F2CA132DC65400F25469 /* Sheen1.jpg in Resources */,
+				31D7F2CB132DC65400F25469 /* Sheen2.jpg in Resources */,
+				31D7F2CC132DC65400F25469 /* Sheen3.jpg in Resources */,
+				31D7F2CD132DC65400F25469 /* Sheen4.jpg in Resources */,
+				31D7F2CE132DC65400F25469 /* Sheen5.jpg in Resources */,
+				31D7F2CF132DC65400F25469 /* Sheen7.jpg in Resources */,
+				31D7F2D0132DC65400F25469 /* Sheen8.jpg in Resources */,
+				31D7F2D1132DC65400F25469 /* Sheen9.jpg in Resources */,
+				31D7F2D2132DC65400F25469 /* Sheen0.jpg in Resources */,
+				31D7F2F5132DC69100F25469 /* andThenLikeThis.mp3 in Resources */,
+				31D7F2F6132DC69100F25469 /* bangingSevenGramRocks.mp3 in Resources */,
+				31D7F2F7132DC69100F25469 /* bingo.mp3 in Resources */,
+				31D7F2F8132DC69100F25469 /* cantIsTheCancerOfHappen.mp3 in Resources */,
+				31D7F2F9132DC69100F25469 /* dontRememberDontCare.mp3 in Resources */,
+				31D7F2FA132DC69100F25469 /* droopyEyedArmlessChildren.mp3 in Resources */,
+				31D7F2FB132DC69100F25469 /* drugTestsDontLie.mp3 in Resources */,
+				31D7F2FC132DC69100F25469 /* dyingsForFools.mp3 in Resources */,
+				31D7F2FD132DC69100F25469 /* go.mp3 in Resources */,
+				31D7F2FE132DC69100F25469 /* godNo.mp3 in Resources */,
+				31D7F2FF132DC69100F25469 /* iDontKnowMan.mp3 in Resources */,
+				31D7F300132DC69100F25469 /* imBiWinning.mp3 in Resources */,
+				31D7F301132DC69100F25469 /* iMissedPractice.mp3 in Resources */,
+				31D7F302132DC69100F25469 /* imOnADrugCalledCharlieSheen.mp3 in Resources */,
+				31D7F303132DC69100F25469 /* imTalkingAboutPractice.mp3 in Resources */,
+				31D7F304132DC69100F25469 /* itsNotAvailable.mp3 in Resources */,
+				31D7F305132DC69100F25469 /* itWasEpic.mp3 in Resources */,
+				31D7F306132DC69100F25469 /* justDoIt.mp3 in Resources */,
+				31D7F307132DC69100F25469 /* lastTimeITookDrugs.mp3 in Resources */,
+				31D7F308132DC69100F25469 /* lookatme.mp3 in Resources */,
+				31D7F309132DC69100F25469 /* myPassion.mp3 in Resources */,
+				31D7F30A132DC69100F25469 /* notFromThisTerrestrialRealm.mp3 in Resources */,
+				31D7F30B132DC69100F25469 /* oneSpeedOneGear.mp3 in Resources */,
+				31D7F30C132DC69100F25469 /* passion.mp3 in Resources */,
+				31D7F30D132DC69100F25469 /* scoreBoardDoesntLie.mp3 in Resources */,
+				31D7F30E132DC69100F25469 /* thatsHowIRoll.mp3 in Resources */,
+				31D7F30F132DC69100F25469 /* theNikeSlogan.mp3 in Resources */,
+				31D7F310132DC69100F25469 /* uhOk.mp3 in Resources */,
+				31D7F311132DC69100F25469 /* um.mp3 in Resources */,
+				31D7F313132DC69100F25469 /* wowWhatDoesThatMean.mp3 in Resources */,
+				31D7F314132DC69100F25469 /* wowWinning.mp3 in Resources */,
+				31D7F315132DC69100F25469 /* yeah.mp3 in Resources */,
+				31D7F316132DC69100F25469 /* youBorrowMyBrain.mp3 in Resources */,
+				31D7F31A132DE4BC00F25469 /* Sheen6.jpg in Resources */,
+				31428FD2132DE51C0091C184 /* MainWindow-iPad.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +489,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		31428FD0132DE51C0091C184 /* MainWindow-iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				31428FD1132DE51C0091C184 /* en */,
+			);
+			name = "MainWindow-iPad.xib";
+			sourceTree = "<group>";
+		};
 		31D7F28F132DC32200F25469 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -361,7 +573,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sheen/sheen-Prefix.pch";
 				INFOPLIST_FILE = "sheen/sheen-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -374,7 +588,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sheen/sheen-Prefix.pch";
 				INFOPLIST_FILE = "sheen/sheen-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -443,6 +659,7 @@
 				31D7F2BB132DC32300F25469 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		31D7F2BC132DC32300F25469 /* Build configuration list for PBXNativeTarget "sheenTests" */ = {
 			isa = XCConfigurationList;
@@ -451,6 +668,7 @@
 				31D7F2BE132DC32300F25469 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
