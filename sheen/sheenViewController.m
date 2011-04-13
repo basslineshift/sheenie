@@ -139,7 +139,13 @@
 #pragma ibactions
 - (IBAction) loadSoundBoard
 {
-    NSLog(@"hello world");
+    SheenSoundBoard* sheenSoundBoard = [[[SheenSoundBoard alloc]
+                                         initWithStyle:UITableViewStylePlain]autorelease];
+    [sheenSoundBoard.audioDictionary setDictionary:audioDictionary];
+    [sheenSoundBoard setDelegate:self];
+    UINavigationController* sheenNavController = [[[UINavigationController alloc]
+                                                   initWithRootViewController:sheenSoundBoard]autorelease];
+    [self presentModalViewController:sheenNavController animated:TRUE];
 }
 
 -(IBAction) playRandomClip
@@ -177,6 +183,26 @@
 -(IBAction) loadNewImage
 {
     
+}
+
+#pragma mark-
+#pragma mark SheenSoundBoard Delegate Functions
+-(void)playSoundClipWithKey:(NSString*)key
+{
+    soundFilePath = [[[NSMutableString alloc] init]autorelease];
+    
+    // create the path, url and player
+    filePath = [NSMutableString stringWithString:[[NSBundle mainBundle] pathForResource:key ofType:@"mp3"]];
+    fileURL = [[[NSURL alloc] initFileURLWithPath:filePath]autorelease];
+    
+    audioPlayer = [[AVAudioPlayer alloc]initWithContentsOfURL:fileURL error:nil];
+        
+    if (audioPlayer.playing)
+        [audioPlayer stop];
+    [audioPlayer prepareToPlay];
+    audioPlayer.currentTime = 0;
+    audioPlayer.volume = 1;
+    [audioPlayer play];
 }
 
 @end

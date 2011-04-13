@@ -89,6 +89,7 @@
 		31D7F316132DC69100F25469 /* youBorrowMyBrain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F2F4132DC69100F25469 /* youBorrowMyBrain.mp3 */; };
 		31D7F318132DC7DA00F25469 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D7F317132DC7D900F25469 /* AVFoundation.framework */; };
 		31D7F31A132DE4BC00F25469 /* Sheen6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 31D7F319132DE4BC00F25469 /* Sheen6.jpg */; };
+		DC4858591355323100AED31F /* SheenSoundBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = DC4858581355323100AED31F /* SheenSoundBoard.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -189,6 +190,8 @@
 		31D7F2F4132DC69100F25469 /* youBorrowMyBrain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = youBorrowMyBrain.mp3; sourceTree = "<group>"; };
 		31D7F317132DC7D900F25469 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		31D7F319132DE4BC00F25469 /* Sheen6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sheen6.jpg; sourceTree = "<group>"; };
+		DC4858571355323100AED31F /* SheenSoundBoard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SheenSoundBoard.h; sourceTree = "<group>"; };
+		DC4858581355323100AED31F /* SheenSoundBoard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SheenSoundBoard.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +267,8 @@
 				31D7F29B132DC32200F25469 /* sheenViewController.h */,
 				31D7F29C132DC32200F25469 /* sheenViewController.m */,
 				31D7F29E132DC32200F25469 /* sheenViewController.xib */,
+				DC4858571355323100AED31F /* SheenSoundBoard.h */,
+				DC4858581355323100AED31F /* SheenSoundBoard.m */,
 				31D7F28D132DC32200F25469 /* Supporting Files */,
 			);
 			path = sheen;
@@ -315,10 +320,10 @@
 				312CD9B2133FA971007E4EAC /* boom.mp3 */,
 				312CD9B3133FA971007E4EAC /* bring_it.mp3 */,
 				312CD9B4133FA971007E4EAC /* bring_me_a_challenge.mp3 */,
+				312CD9B8133FA971007E4EAC /* deploy_my_ordinates.mp3 */,
 				312CD9B5133FA971007E4EAC /* cant_process_it.mp3 */,
 				312CD9B6133FA971007E4EAC /* cured_with_my_brain.mp3 */,
 				312CD9B7133FA971007E4EAC /* deep_in_the_trenches.mp3 */,
-				312CD9B8133FA971007E4EAC /* deploy_my_ordinates.mp3 */,
 				312CD9B9133FA971007E4EAC /* dont_be_special.mp3 */,
 				312CD9BA133FA971007E4EAC /* f18_bro.mp3 */,
 				312CD9BB133FA971007E4EAC /* fools_and_trolls.mp3 */,
@@ -555,6 +560,7 @@
 				31D7F294132DC32200F25469 /* main.m in Sources */,
 				31D7F297132DC32200F25469 /* sheenAppDelegate.m in Sources */,
 				31D7F29D132DC32200F25469 /* sheenViewController.m in Sources */,
+				DC4858591355323100AED31F /* SheenSoundBoard.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -656,13 +662,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Thomas Bailey (GSE2GSU99M)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Thomas Bailey (GSE2GSU99M)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sheen/sheen-Prefix.pch";
 				INFOPLIST_FILE = "sheen/sheen-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "2B5D00D2-CA17-4C35-898C-89E0583F655C";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2B5D00D2-CA17-4C35-898C-89E0583F655C";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -672,12 +682,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Thomas Bailey (GSE2GSU99M)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Thomas Bailey (GSE2GSU99M)";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sheen/sheen-Prefix.pch";
 				INFOPLIST_FILE = "sheen/sheen-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "2B5D00D2-CA17-4C35-898C-89E0583F655C";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2B5D00D2-CA17-4C35-898C-89E0583F655C";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;

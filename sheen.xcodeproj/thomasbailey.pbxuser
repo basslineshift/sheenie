@@ -3,6 +3,7 @@
 	31D7F279132DC32200F25469 /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = DC2898F9133FAEB400772C26 /* sheen */;
+		activeSDKPreference = iphonesimulator4.2;
 		activeTarget = 31D7F281132DC32200F25469 /* sheen */;
 		codeSenseManager = DC289910133FAEB900772C26 /* Code sense */;
 		executables = (
@@ -14,9 +15,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					829,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -31,8 +32,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 322940597;
-			PBXWorkspaceStateSaveDate = 322940597;
+			PBXPerProjectTemplateStateSaveDate = 323736518;
+			PBXWorkspaceStateSaveDate = 323736518;
 		};
 		sourceControlManager = DC28990F133FAEB900772C26 /* Source Control */;
 		userBuildSettings = {

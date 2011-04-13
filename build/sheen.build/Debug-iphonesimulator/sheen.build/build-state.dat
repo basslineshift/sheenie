@@ -1,0 +1,1541 @@
+Tsheen
+v7
+r0
+t323736541.818272
+cCheck dependencies
+cProcessInfoPlistFile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Info.plist sheen/sheen-Info.plist
+cProcessPCH /var/folders/ye/ye5pFS5MFzeFIOuuKPm7TU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sheen-Prefix-amqwobscycroxgdyanbvsduxbotj/sheen-Prefix.pch.gch sheen/sheen-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/main.o /Users/thomasbailey/Desktop/sheenie/sheen/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenAppDelegate.o /Users/thomasbailey/Desktop/sheenie/sheen/sheenAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenViewController.o /Users/thomasbailey/Desktop/sheenie/sheen/sheenViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen normal i386
+cGenerateDSYMFile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app.dSYM /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen
+cCopyStringsFile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/InfoPlist.strings sheen/en.lproj/InfoPlist.strings
+cCompileXIB /Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/MainWindow.xib
+cCompileXIB /Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/sheenViewController.xib
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen1.jpg sheen/Sheen1.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen2.jpg sheen/Sheen2.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen3.jpg sheen/Sheen3.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen4.jpg sheen/Sheen4.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen5.jpg sheen/Sheen5.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen7.jpg sheen/Sheen7.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen8.jpg sheen/Sheen8.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen9.jpg sheen/Sheen9.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen0.jpg sheen/Sheen0.jpg
+cCpResource build/Debug-iphonesimulator/sheen.app/andThenLikeThis.mp3 sheen/andThenLikeThis.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/bangingSevenGramRocks.mp3 sheen/bangingSevenGramRocks.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/bingo.mp3 sheen/bingo.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/bingo.mp3 sheen/sheenquotes/bingo.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/cantIsTheCancerOfHappen.mp3 sheen/cantIsTheCancerOfHappen.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/dontRememberDontCare.mp3 sheen/dontRememberDontCare.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/droopyEyedArmlessChildren.mp3 sheen/droopyEyedArmlessChildren.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/drugTestsDontLie.mp3 sheen/drugTestsDontLie.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/dyingsForFools.mp3 sheen/dyingsForFools.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/go.mp3 sheen/go.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/godNo.mp3 sheen/godNo.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/iDontKnowMan.mp3 sheen/iDontKnowMan.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/imBiWinning.mp3 sheen/imBiWinning.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/iMissedPractice.mp3 sheen/iMissedPractice.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/imOnADrugCalledCharlieSheen.mp3 sheen/imOnADrugCalledCharlieSheen.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/imTalkingAboutPractice.mp3 sheen/imTalkingAboutPractice.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/itsNotAvailable.mp3 sheen/itsNotAvailable.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/itWasEpic.mp3 sheen/itWasEpic.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/justDoIt.mp3 sheen/justDoIt.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/lastTimeITookDrugs.mp3 sheen/lastTimeITookDrugs.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/lookatme.mp3 sheen/lookatme.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/myPassion.mp3 sheen/myPassion.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/notFromThisTerrestrialRealm.mp3 sheen/notFromThisTerrestrialRealm.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/oneSpeedOneGear.mp3 sheen/oneSpeedOneGear.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/passion.mp3 sheen/passion.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/scoreBoardDoesntLie.mp3 sheen/scoreBoardDoesntLie.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/thatsHowIRoll.mp3 sheen/thatsHowIRoll.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/theNikeSlogan.mp3 sheen/theNikeSlogan.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/uhOk.mp3 sheen/uhOk.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/um.mp3 sheen/um.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/wowWhatDoesThatMean.mp3 sheen/wowWhatDoesThatMean.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/wowWinning.mp3 sheen/wowWinning.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/yeah.mp3 sheen/yeah.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/youBorrowMyBrain.mp3 sheen/youBorrowMyBrain.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/Sheen6.jpg sheen/Sheen6.jpg
+cCompileXIB /Users/thomasbailey/Desktop/sheenie/sheen/iPad/en.lproj/MainWindow-iPad.xib
+cCpResource build/Debug-iphonesimulator/sheen.app/addicted_to_charlie_sheen.mp3 sheen/sheenquotes/addicted_to_charlie_sheen.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/addicted_to_winning.mp3 sheen/sheenquotes/addicted_to_winning.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/amateurs_bible_grippers.mp3 sheen/sheenquotes/amateurs_bible_grippers.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/battle_tested_bayonets.mp3 sheen/sheenquotes/battle_tested_bayonets.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/bible_grippers.mp3 sheen/sheenquotes/bible_grippers.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/black_bart.mp3 sheen/sheenquotes/black_bart.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/boom.mp3 sheen/sheenquotes/boom.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/bring_it.mp3 sheen/sheenquotes/bring_it.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/bring_me_a_challenge.mp3 sheen/sheenquotes/bring_me_a_challenge.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/cant_process_it.mp3 sheen/sheenquotes/cant_process_it.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/cured_with_my_brain.mp3 sheen/sheenquotes/cured_with_my_brain.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/deep_in_the_trenches.mp3 sheen/sheenquotes/deep_in_the_trenches.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/deploy_my_ordinates.mp3 sheen/sheenquotes/deploy_my_ordinates.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/dont_be_special.mp3 sheen/sheenquotes/dont_be_special.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/f18_bro.mp3 sheen/sheenquotes/f18_bro.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/fools_and_trolls.mp3 sheen/sheenquotes/fools_and_trolls.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/in_the_orca.mp3 sheen/sheenquotes/in_the_orca.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/like_the_view.mp3 sheen/sheenquotes/like_the_view.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/magic.mp3 sheen/sheenquotes/magic.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/strafing_runs_in_underwear.mp3 sheen/sheenquotes/strafing_runs_in_underwear.mp3
+cCpResource build/Debug-iphonesimulator/sheen.app/whats_the_cure.mp3 sheen/sheenquotes/whats_the_cure.mp3
+cTouch /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004CC12884000000000000145D
+t1287727236
+s5213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app
+t1302043741
+s2380
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app.dSYM
+t1302043739
+s102
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Info.plist
+t1302043731
+s737
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/PkgInfo
+t1302043731
+s8
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen0.jpg
+t1302043740
+s15141
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen1.jpg
+t1302043740
+s48005
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen2.jpg
+t1302043740
+s28984
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen3.jpg
+t1302043740
+s24352
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen4.jpg
+t1302043740
+s20209
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen5.jpg
+t1302043740
+s26053
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen6.jpg
+t1302043741
+s52982
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen7.jpg
+t1302043740
+s136393
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen8.jpg
+t1302043740
+s18805
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Sheen9.jpg
+t1302043740
+s66529
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/addicted_to_charlie_sheen.mp3
+t1302043741
+s45038
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/addicted_to_winning.mp3
+t1302043741
+s51307
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/amateurs_bible_grippers.mp3
+t1302043741
+s105851
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/andThenLikeThis.mp3
+t1302043740
+s21609
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/bangingSevenGramRocks.mp3
+t1302043740
+s41208
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/battle_tested_bayonets.mp3
+t1302043741
+s47545
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/bible_grippers.mp3
+t1302043741
+s34380
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/bingo.mp3
+t1302043740
+s46919
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/black_bart.mp3
+t1302043741
+s24976
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/boom.mp3
+t1302043741
+s11810
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/bring_it.mp3
+t1302043741
+s18079
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/bring_me_a_challenge.mp3
+t1302043741
+s43784
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/cantIsTheCancerOfHappen.mp3
+t1302043740
+s31617
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/cant_process_it.mp3
+t1302043741
+s41903
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/cured_with_my_brain.mp3
+t1302043741
+s52561
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/deep_in_the_trenches.mp3
+t1302043741
+s61965
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/deploy_my_ordinates.mp3
+t1302043741
+s102716
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/dontRememberDontCare.mp3
+t1302043740
+s24528
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/dont_be_special.mp3
+t1302043741
+s31872
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/droopyEyedArmlessChildren.mp3
+t1302043740
+s27864
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/drugTestsDontLie.mp3
+t1302043740
+s22860
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/dyingsForFools.mp3
+t1302043740
+s20358
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/InfoPlist.strings
+t1302043740
+s42
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/MainWindow-iPad.nib
+t1302043741
+s1119
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/MainWindow.nib
+t1302043740
+s1119
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/sheenViewController.nib
+t1302043741
+s2237
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/f18_bro.mp3
+t1302043741
+s17139
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/fools_and_trolls.mp3
+t1302043741
+s39395
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/go.mp3
+t1302043740
+s13686
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/godNo.mp3
+t1302043740
+s14520
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/iDontKnowMan.mp3
+t1302043740
+s15771
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/iMissedPractice.mp3
+t1302043740
+s30366
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/imBiWinning.mp3
+t1302043740
+s28275
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/imOnADrugCalledCharlieSheen.mp3
+t1302043740
+s33702
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/imTalkingAboutPractice.mp3
+t1302043740
+s29532
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/in_the_orca.mp3
+t1302043741
+s32499
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/itWasEpic.mp3
+t1302043740
+s19107
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/itsNotAvailable.mp3
+t1302043740
+s95835
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/justDoIt.mp3
+t1302043740
+s17439
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/lastTimeITookDrugs.mp3
+t1302043740
+s84576
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/like_the_view.mp3
+t1302043741
+s57576
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/lookatme.mp3
+t1302043741
+s24945
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/magic.mp3
+t1302043741
+s40022
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/myPassion.mp3
+t1302043741
+s17439
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/notFromThisTerrestrialRealm.mp3
+t1302043741
+s72066
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/oneSpeedOneGear.mp3
+t1302043741
+s29532
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/passion.mp3
+t1302043741
+s14103
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/scoreBoardDoesntLie.mp3
+t1302043741
+s23277
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen
+t1302043739
+s28288
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/strafing_runs_in_underwear.mp3
+t1302043741
+s68548
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/thatsHowIRoll.mp3
+t1302043741
+s15354
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/theNikeSlogan.mp3
+t1302043741
+s41625
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/uhOk.mp3
+t1302043741
+s20358
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/um.mp3
+t1302043741
+s11184
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/whats_the_cure.mp3
+t1302043741
+s84426
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/wowWhatDoesThatMean.mp3
+t1302043741
+s28698
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/wowWinning.mp3
+t1302043741
+s23694
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/yeah.mp3
+t1302043741
+s10350
+
+N/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/youBorrowMyBrain.mp3
+t1302043741
+s75819
+
+N/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/main.o
+t1302043737
+s3080
+
+N/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheen.LinkFileList
+c000000004D9B9C530000000000000174
+t1302043731
+s372
+
+N/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenAppDelegate.o
+t1302043738
+s47648
+
+N/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenViewController.o
+t1302043738
+s63276
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen0.jpg
+c000000004D8F76730000000000003B25
+t1301247603
+s15141
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen1.jpg
+c000000004D8F7673000000000000BB85
+t1301247603
+s48005
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen2.jpg
+c000000004D8F76730000000000007138
+t1301247603
+s28984
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen3.jpg
+c000000004D8F76730000000000005F20
+t1301247603
+s24352
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen4.jpg
+c000000004D8F76730000000000004EF1
+t1301247603
+s20209
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen5.jpg
+c000000004D8F767300000000000065C5
+t1301247603
+s26053
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen6.jpg
+c000000004D8F7673000000000000CEF6
+t1301247603
+s52982
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen7.jpg
+c000000004D8F767300000000000214C9
+t1301247603
+s136393
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen8.jpg
+c000000004D8F76730000000000004975
+t1301247603
+s18805
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/Sheen9.jpg
+c000000004D8F767300000000000103E1
+t1301247603
+s66529
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/andThenLikeThis.mp3
+c000000004D8F76730000000000005469
+t1301247603
+s21609
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/bangingSevenGramRocks.mp3
+c000000004D8F7673000000000000A0F8
+t1301247603
+s41208
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/bingo.mp3
+c000000004D8F767300000000000045C0
+t1301247603
+s17856
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/cantIsTheCancerOfHappen.mp3
+c000000004D8F76730000000000007B81
+t1301247603
+s31617
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/dontRememberDontCare.mp3
+c000000004D8F76730000000000005FD0
+t1301247603
+s24528
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/droopyEyedArmlessChildren.mp3
+c000000004D8F76730000000000006CD8
+t1301247603
+s27864
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/drugTestsDontLie.mp3
+c000000004D8F7673000000000000594C
+t1301247603
+s22860
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/dyingsForFools.mp3
+c000000004D8F76730000000000004F86
+t1301247603
+s20358
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/InfoPlist.strings
+c000000004D8F7673000000000000002D
+t1301247603
+s45
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/MainWindow.xib
+c000000004D8F76730000000000004E01
+t1301247603
+s19969
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/sheenViewController.xib
+c000000004D8F76730000000000003DDF
+t1301247603
+s15839
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/go.mp3
+c000000004D8F76730000000000003576
+t1301247603
+s13686
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/godNo.mp3
+c000000004D8F767300000000000038B8
+t1301247603
+s14520
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/iDontKnowMan.mp3
+c000000004D8F76730000000000003D9B
+t1301247603
+s15771
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/iMissedPractice.mp3
+c000000004D8F7673000000000000769E
+t1301247603
+s30366
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/iPad/en.lproj/MainWindow-iPad.xib
+c000000004D8F76730000000000004FD4
+t1301247603
+s20436
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/imBiWinning.mp3
+c000000004D8F76730000000000006E73
+t1301247603
+s28275
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/imOnADrugCalledCharlieSheen.mp3
+c000000004D8F767300000000000083A6
+t1301247603
+s33702
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/imTalkingAboutPractice.mp3
+c000000004D8F7673000000000000735C
+t1301247603
+s29532
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/itWasEpic.mp3
+c000000004D8F76730000000000004AA3
+t1301247603
+s19107
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/itsNotAvailable.mp3
+c000000004D8F7673000000000001765B
+t1301247603
+s95835
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/justDoIt.mp3
+c000000004D8F7673000000000000441F
+t1301247603
+s17439
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/lastTimeITookDrugs.mp3
+c000000004D8F76730000000000014A60
+t1301247603
+s84576
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/lookatme.mp3
+c000000004D8F76730000000000006171
+t1301247603
+s24945
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/main.m
+c000000004D8F76730000000000000159
+t1301247603
+s345
+i<UIKit/UIKit.h>
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/myPassion.mp3
+c000000004D8F7673000000000000441F
+t1301247603
+s17439
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/notFromThisTerrestrialRealm.mp3
+c000000004D8F76730000000000011982
+t1301247603
+s72066
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/oneSpeedOneGear.mp3
+c000000004D8F7673000000000000735C
+t1301247603
+s29532
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/passion.mp3
+c000000004D8F76730000000000003717
+t1301247603
+s14103
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/scoreBoardDoesntLie.mp3
+c000000004D8F76730000000000005AED
+t1301247603
+s23277
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheen-Prefix.pch
+c000000004D8F7673000000000000013C
+t1301247603
+s316
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenAppDelegate.h
+c000000004D8F7673000000000000018D
+t1301247603
+s397
+i<UIKit/UIKit.h>
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenAppDelegate.m
+c000000004D8F76730000000000000950
+t1301247603
+s2384
+i"sheenAppDelegate.h"
+i"sheenViewController.h"
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenViewController.h
+c000000004D8F767300000000000002E0
+t1301247603
+s736
+i<UIKit/UIKit.h>
+i<AVFoundation/AVAudioPlayer.h>
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenViewController.m
+c000000004D8F76AC0000000000001F45
+t1301247660
+s8005
+i"sheenViewController.h"
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/addicted_to_charlie_sheen.mp3
+c000000004D8F7673000000000000AFEE
+t1301247603
+s45038
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/addicted_to_winning.mp3
+c000000004D8F7673000000000000C86B
+t1301247603
+s51307
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/amateurs_bible_grippers.mp3
+c000000004D8F76730000000000019D7B
+t1301247603
+s105851
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/battle_tested_bayonets.mp3
+c000000004D8F7673000000000000B9B9
+t1301247603
+s47545
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bible_grippers.mp3
+c000000004D8F7673000000000000864C
+t1301247603
+s34380
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bingo.mp3
+c000000004D8F7673000000000000B747
+t1301247603
+s46919
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/black_bart.mp3
+c000000004D8F76730000000000006190
+t1301247603
+s24976
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/boom.mp3
+c000000004D8F76730000000000002E22
+t1301247603
+s11810
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bring_it.mp3
+c000000004D8F7673000000000000469F
+t1301247603
+s18079
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bring_me_a_challenge.mp3
+c000000004D8F7673000000000000AB08
+t1301247603
+s43784
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/cant_process_it.mp3
+c000000004D8F7673000000000000A3AF
+t1301247603
+s41903
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/cured_with_my_brain.mp3
+c000000004D8F7673000000000000CD51
+t1301247603
+s52561
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/deep_in_the_trenches.mp3
+c000000004D8F7673000000000000F20D
+t1301247603
+s61965
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/deploy_my_ordinates.mp3
+c000000004D8F7673000000000001913C
+t1301247603
+s102716
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/dont_be_special.mp3
+c000000004D8F76730000000000007C80
+t1301247603
+s31872
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/f18_bro.mp3
+c000000004D8F767300000000000042F3
+t1301247603
+s17139
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/fools_and_trolls.mp3
+c000000004D8F767300000000000099E3
+t1301247603
+s39395
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/in_the_orca.mp3
+c000000004D8F76730000000000007EF3
+t1301247603
+s32499
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/like_the_view.mp3
+c000000004D8F7673000000000000E0E8
+t1301247603
+s57576
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/magic.mp3
+c000000004D8F76730000000000009C56
+t1301247603
+s40022
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/strafing_runs_in_underwear.mp3
+c000000004D8F76730000000000010BC4
+t1301247603
+s68548
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/whats_the_cure.mp3
+c000000004D8F767300000000000149CA
+t1301247603
+s84426
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/thatsHowIRoll.mp3
+c000000004D8F76730000000000003BFA
+t1301247603
+s15354
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/theNikeSlogan.mp3
+c000000004D8F7673000000000000A299
+t1301247603
+s41625
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/uhOk.mp3
+c000000004D8F76730000000000004F86
+t1301247603
+s20358
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/um.mp3
+c000000004D8F76730000000000002BB0
+t1301247603
+s11184
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/wowWhatDoesThatMean.mp3
+c000000004D8F7673000000000000701A
+t1301247603
+s28698
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/wowWinning.mp3
+c000000004D8F76730000000000005C8E
+t1301247603
+s23694
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/yeah.mp3
+c000000004D8F7673000000000000286E
+t1301247603
+s10350
+
+N/Users/thomasbailey/Desktop/sheenie/sheen/youBorrowMyBrain.mp3
+c000000004D8F7673000000000001282B
+t1301247603
+s75819
+
+N/var/folders/ye/ye5pFS5MFzeFIOuuKPm7TU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sheen-Prefix-amqwobscycroxgdyanbvsduxbotj/sheen-Prefix.pch.gch
+t1302043737
+s11992272
+
+Nsheen/sheen-Info.plist
+c000000004D8F76730000000000000476
+t1301247603
+s1142
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323736531#323736531#0(139"[WARN]Warning: Multiple build commands for output file /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/bingo.mp31(22@132"Warning: Multiple build commands for output file /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/bingo.mp3323736531#18446744073709551615#0#0(1@0"0(0#1#0"8627008128#0"0#
+
+CCompileC build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/main.o /Users/thomasbailey/Desktop/sheenie/sheen/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s323736537.385953
+e323736537.775651
+r1
+xCompileC
+xbuild/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/main.o
+x/Users/thomasbailey/Desktop/sheenie/sheen/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@56"Compile /Users/thomasbailey/Desktop/sheenie/sheen/main.m323736537#323736538#0(0"0(0#0#48"/Users/thomasbailey/Desktop/sheenie/sheen/main.m8626536960#1936"    cd /Users/thomasbailey/Desktop/sheenie    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-generated-files.hmap -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-own-target-headers.hmap -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-all-target-headers.hmap -iquote /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-project-headers.hmap -F/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator -I/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/include -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/DerivedSources/i386 -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/ye/ye5pFS5MFzeFIOuuKPm7TU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sheen-Prefix-amqwobscycroxgdyanbvsduxbotj/sheen-Prefix.pch -c /Users/thomasbailey/Desktop/sheenie/sheen/main.m -o /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/main.o0#
+
+CCompileC build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenAppDelegate.o /Users/thomasbailey/Desktop/sheenie/sheen/sheenAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s323736537.775748
+e323736538.077083
+r1
+xCompileC
+xbuild/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenAppDelegate.o
+x/Users/thomasbailey/Desktop/sheenie/sheen/sheenAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Users/thomasbailey/Desktop/sheenie/sheen/sheenAppDelegate.m323736537#323736538#0(0"0(0#0#60"/Users/thomasbailey/Desktop/sheenie/sheen/sheenAppDelegate.m8623551040#1960"    cd /Users/thomasbailey/Desktop/sheenie    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-generated-files.hmap -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-own-target-headers.hmap -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-all-target-headers.hmap -iquote /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-project-headers.hmap -F/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator -I/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/include -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/DerivedSources/i386 -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/ye/ye5pFS5MFzeFIOuuKPm7TU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sheen-Prefix-amqwobscycroxgdyanbvsduxbotj/sheen-Prefix.pch -c /Users/thomasbailey/Desktop/sheenie/sheen/sheenAppDelegate.m -o /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenAppDelegate.o0#
+
+CCompileC build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenViewController.o /Users/thomasbailey/Desktop/sheenie/sheen/sheenViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s323736538.077188
+e323736538.331888
+r1
+xCompileC
+xbuild/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenViewController.o
+x/Users/thomasbailey/Desktop/sheenie/sheen/sheenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Users/thomasbailey/Desktop/sheenie/sheen/sheenViewController.m323736538#323736538#0(0"0(0#0#63"/Users/thomasbailey/Desktop/sheenie/sheen/sheenViewController.m8626858752#1966"    cd /Users/thomasbailey/Desktop/sheenie    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-generated-files.hmap -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-own-target-headers.hmap -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-all-target-headers.hmap -iquote /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-project-headers.hmap -F/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator -I/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/include -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/DerivedSources/i386 -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/ye/ye5pFS5MFzeFIOuuKPm7TU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sheen-Prefix-amqwobscycroxgdyanbvsduxbotj/sheen-Prefix.pch -c /Users/thomasbailey/Desktop/sheenie/sheen/sheenViewController.m -o /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheenViewController.o0#
+
+CCompileXIB /Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/MainWindow.xib
+s323736539.416738
+e323736540.739268
+r1
+xCompileXIB
+x/Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/MainWindow.xib
+lSLF07#2@40"CompileXIB sheen/en.lproj/MainWindow.xib323736539#323736540#0(0"0(0#0#65"/Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/MainWindow.xib8626688928#583"    cd /Users/thomasbailey/Desktop/sheenie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/MainWindow.nib /Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/sheenViewController.xib
+s323736540.426258
+e323736541.810570
+r1
+xCompileXIB
+x/Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/sheenViewController.xib
+lSLF07#2@49"CompileXIB sheen/en.lproj/sheenViewController.xib323736540#323736541#0(0"0(0#0#74"/Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/sheenViewController.xib8626971072#601"    cd /Users/thomasbailey/Desktop/sheenie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/sheenViewController.nib /Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/sheenViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/thomasbailey/Desktop/sheenie/sheen/iPad/en.lproj/MainWindow-iPad.xib
+s323736541.057330
+e323736541.462571
+r1
+xCompileXIB
+x/Users/thomasbailey/Desktop/sheenie/sheen/iPad/en.lproj/MainWindow-iPad.xib
+lSLF07#2@50"CompileXIB sheen/iPad/en.lproj/MainWindow-iPad.xib323736541#323736541#0(0"0(0#0#75"/Users/thomasbailey/Desktop/sheenie/sheen/iPad/en.lproj/MainWindow-iPad.xib8612746688#598"    cd /Users/thomasbailey/Desktop/sheenie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/MainWindow-iPad.nib /Users/thomasbailey/Desktop/sheenie/sheen/iPad/en.lproj/MainWindow-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/InfoPlist.strings sheen/en.lproj/InfoPlist.strings
+s323736539.415887
+e323736540.426148
+r1
+xCopyStringsFile
+x/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj/InfoPlist.strings
+xsheen/en.lproj/InfoPlist.strings
+lSLF07#2@37"Copy sheen/en.lproj/InfoPlist.strings323736539#323736540#0(0"0(0#0#68"/Users/thomasbailey/Desktop/sheenie/sheen/en.lproj/InfoPlist.strings8626735840#481"    cd /Users/thomasbailey/Desktop/sheenie    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary sheen/en.lproj/InfoPlist.strings --outdir /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen0.jpg sheen/Sheen0.jpg
+s323736540.749464
+e323736540.854160
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen0.jpg
+xsheen/Sheen0.jpg
+lSLF07#2@21"Copy sheen/Sheen0.jpg323736540#323736540#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen0.jpg8626993056#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen0.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen1.jpg sheen/Sheen1.jpg
+s323736540.739630
+e323736540.868019
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen1.jpg
+xsheen/Sheen1.jpg
+lSLF07#2@21"Copy sheen/Sheen1.jpg323736540#323736540#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen1.jpg8611538336#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen1.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen2.jpg sheen/Sheen2.jpg
+s323736540.740810
+e323736540.811376
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen2.jpg
+xsheen/Sheen2.jpg
+lSLF07#2@21"Copy sheen/Sheen2.jpg323736540#323736540#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen2.jpg8602851776#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen2.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen3.jpg sheen/Sheen3.jpg
+s323736540.742915
+e323736540.827011
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen3.jpg
+xsheen/Sheen3.jpg
+lSLF07#2@21"Copy sheen/Sheen3.jpg323736540#323736540#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen3.jpg8600135360#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen3.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen4.jpg sheen/Sheen4.jpg
+s323736540.744794
+e323736540.829253
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen4.jpg
+xsheen/Sheen4.jpg
+lSLF07#2@21"Copy sheen/Sheen4.jpg323736540#323736540#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen4.jpg8616070336#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen4.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen5.jpg sheen/Sheen5.jpg
+s323736540.746061
+e323736540.812762
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen5.jpg
+xsheen/Sheen5.jpg
+lSLF07#2@21"Copy sheen/Sheen5.jpg323736540#323736540#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen5.jpg8609494272#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen5.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen6.jpg sheen/Sheen6.jpg
+s323736541.050084
+e323736541.083244
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen6.jpg
+xsheen/Sheen6.jpg
+lSLF07#2@21"Copy sheen/Sheen6.jpg323736541#323736541#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen6.jpg8615391200#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen6.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen7.jpg sheen/Sheen7.jpg
+s323736540.746945
+e323736541.015967
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen7.jpg
+xsheen/Sheen7.jpg
+lSLF07#2@21"Copy sheen/Sheen7.jpg323736540#323736541#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen7.jpg8605798400#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen7.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen8.jpg sheen/Sheen8.jpg
+s323736540.747783
+e323736540.821822
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen8.jpg
+xsheen/Sheen8.jpg
+lSLF07#2@21"Copy sheen/Sheen8.jpg323736540#323736540#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen8.jpg8599986688#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen8.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/Sheen9.jpg sheen/Sheen9.jpg
+s323736540.748604
+e323736540.924802
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/Sheen9.jpg
+xsheen/Sheen9.jpg
+lSLF07#2@21"Copy sheen/Sheen9.jpg323736540#323736540#0(0"0(0#0#52"/Users/thomasbailey/Desktop/sheenie/sheen/Sheen9.jpg8616035296#463"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/Sheen9.jpg /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/addicted_to_charlie_sheen.mp3 sheen/sheenquotes/addicted_to_charlie_sheen.mp3
+s323736541.462677
+e323736541.510910
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/addicted_to_charlie_sheen.mp3
+xsheen/sheenquotes/addicted_to_charlie_sheen.mp3
+lSLF07#2@52"Copy sheen/sheenquotes/addicted_to_charlie_sheen.mp3323736541#323736541#0(0"0(0#0#83"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/addicted_to_charlie_sheen.mp38612137152#494"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/addicted_to_charlie_sheen.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/addicted_to_winning.mp3 sheen/sheenquotes/addicted_to_winning.mp3
+s323736541.463476
+e323736541.511238
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/addicted_to_winning.mp3
+xsheen/sheenquotes/addicted_to_winning.mp3
+lSLF07#2@46"Copy sheen/sheenquotes/addicted_to_winning.mp3323736541#323736541#0(0"0(0#0#77"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/addicted_to_winning.mp38611268896#488"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/addicted_to_winning.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/amateurs_bible_grippers.mp3 sheen/sheenquotes/amateurs_bible_grippers.mp3
+s323736541.464165
+e323736541.688885
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/amateurs_bible_grippers.mp3
+xsheen/sheenquotes/amateurs_bible_grippers.mp3
+lSLF07#2@50"Copy sheen/sheenquotes/amateurs_bible_grippers.mp3323736541#323736541#0(0"0(0#0#81"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/amateurs_bible_grippers.mp38611008256#492"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/amateurs_bible_grippers.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/andThenLikeThis.mp3 sheen/andThenLikeThis.mp3
+s323736540.811471
+e323736540.829125
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/andThenLikeThis.mp3
+xsheen/andThenLikeThis.mp3
+lSLF07#2@30"Copy sheen/andThenLikeThis.mp3323736540#323736540#0(0"0(0#0#61"/Users/thomasbailey/Desktop/sheenie/sheen/andThenLikeThis.mp38622116896#472"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/andThenLikeThis.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/bangingSevenGramRocks.mp3 sheen/bangingSevenGramRocks.mp3
+s323736540.812844
+e323736540.918799
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/bangingSevenGramRocks.mp3
+xsheen/bangingSevenGramRocks.mp3
+lSLF07#2@36"Copy sheen/bangingSevenGramRocks.mp3323736540#323736540#0(0"0(0#0#67"/Users/thomasbailey/Desktop/sheenie/sheen/bangingSevenGramRocks.mp38620992576#478"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/bangingSevenGramRocks.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/battle_tested_bayonets.mp3 sheen/sheenquotes/battle_tested_bayonets.mp3
+s323736541.468031
+e323736541.511362
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/battle_tested_bayonets.mp3
+xsheen/sheenquotes/battle_tested_bayonets.mp3
+lSLF07#2@49"Copy sheen/sheenquotes/battle_tested_bayonets.mp3323736541#323736541#0(0"0(0#0#80"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/battle_tested_bayonets.mp38610423680#491"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/battle_tested_bayonets.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/bible_grippers.mp3 sheen/sheenquotes/bible_grippers.mp3
+s323736541.469618
+e323736541.511475
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/bible_grippers.mp3
+xsheen/sheenquotes/bible_grippers.mp3
+lSLF07#2@41"Copy sheen/sheenquotes/bible_grippers.mp3323736541#323736541#0(0"0(0#0#72"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bible_grippers.mp38624415616#483"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bible_grippers.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/bingo.mp3 sheen/bingo.mp3
+s323736540.822200
+e323736540.840714
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/bingo.mp3
+xsheen/bingo.mp3
+lSLF07#2@20"Copy sheen/bingo.mp3323736540#323736540#0(0"0(0#0#51"/Users/thomasbailey/Desktop/sheenie/sheen/bingo.mp38603418112#462"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/bingo.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/bingo.mp3 sheen/sheenquotes/bingo.mp3
+s323736540.827106
+e323736540.996220
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/bingo.mp3
+xsheen/sheenquotes/bingo.mp3
+lSLF07#2@32"Copy sheen/sheenquotes/bingo.mp3323736540#323736540#0(0"0(0#0#63"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bingo.mp38626515776#474"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bingo.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/black_bart.mp3 sheen/sheenquotes/black_bart.mp3
+s323736541.474094
+e323736541.501799
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/black_bart.mp3
+xsheen/sheenquotes/black_bart.mp3
+lSLF07#2@37"Copy sheen/sheenquotes/black_bart.mp3323736541#323736541#0(0"0(0#0#68"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/black_bart.mp38609735328#479"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/black_bart.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/boom.mp3 sheen/sheenquotes/boom.mp3
+s323736541.476091
+e323736541.501936
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/boom.mp3
+xsheen/sheenquotes/boom.mp3
+lSLF07#2@31"Copy sheen/sheenquotes/boom.mp3323736541#323736541#0(0"0(0#0#62"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/boom.mp38609511872#473"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/boom.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/bring_it.mp3 sheen/sheenquotes/bring_it.mp3
+s323736541.478635
+e323736541.502050
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/bring_it.mp3
+xsheen/sheenquotes/bring_it.mp3
+lSLF07#2@35"Copy sheen/sheenquotes/bring_it.mp3323736541#323736541#0(0"0(0#0#66"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bring_it.mp38609293952#477"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bring_it.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/bring_me_a_challenge.mp3 sheen/sheenquotes/bring_me_a_challenge.mp3
+s323736541.480981
+e323736541.511589
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/bring_me_a_challenge.mp3
+xsheen/sheenquotes/bring_me_a_challenge.mp3
+lSLF07#2@47"Copy sheen/sheenquotes/bring_me_a_challenge.mp3323736541#323736541#0(0"0(0#0#78"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bring_me_a_challenge.mp38609171360#489"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/bring_me_a_challenge.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/cantIsTheCancerOfHappen.mp3 sheen/cantIsTheCancerOfHappen.mp3
+s323736540.829323
+e323736540.877424
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/cantIsTheCancerOfHappen.mp3
+xsheen/cantIsTheCancerOfHappen.mp3
+lSLF07#2@38"Copy sheen/cantIsTheCancerOfHappen.mp3323736540#323736540#0(0"0(0#0#69"/Users/thomasbailey/Desktop/sheenie/sheen/cantIsTheCancerOfHappen.mp38626075872#480"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/cantIsTheCancerOfHappen.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/cant_process_it.mp3 sheen/sheenquotes/cant_process_it.mp3
+s323736541.502129
+e323736541.622028
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/cant_process_it.mp3
+xsheen/sheenquotes/cant_process_it.mp3
+lSLF07#2@42"Copy sheen/sheenquotes/cant_process_it.mp3323736541#323736541#0(0"0(0#0#73"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/cant_process_it.mp38611233888#484"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/cant_process_it.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/cured_with_my_brain.mp3 sheen/sheenquotes/cured_with_my_brain.mp3
+s323736541.504566
+e323736541.623454
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/cured_with_my_brain.mp3
+xsheen/sheenquotes/cured_with_my_brain.mp3
+lSLF07#2@46"Copy sheen/sheenquotes/cured_with_my_brain.mp3323736541#323736541#0(0"0(0#0#77"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/cured_with_my_brain.mp38626860288#488"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/cured_with_my_brain.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/deep_in_the_trenches.mp3 sheen/sheenquotes/deep_in_the_trenches.mp3
+s323736541.506173
+e323736541.623605
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/deep_in_the_trenches.mp3
+xsheen/sheenquotes/deep_in_the_trenches.mp3
+lSLF07#2@47"Copy sheen/sheenquotes/deep_in_the_trenches.mp3323736541#323736541#0(0"0(0#0#78"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/deep_in_the_trenches.mp38626674880#489"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/deep_in_the_trenches.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/deploy_my_ordinates.mp3 sheen/sheenquotes/deploy_my_ordinates.mp3
+s323736541.511667
+e323736541.719070
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/deploy_my_ordinates.mp3
+xsheen/sheenquotes/deploy_my_ordinates.mp3
+lSLF07#2@46"Copy sheen/sheenquotes/deploy_my_ordinates.mp3323736541#323736541#0(0"0(0#0#77"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/deploy_my_ordinates.mp38626385920#488"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/deploy_my_ordinates.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/dontRememberDontCare.mp3 sheen/dontRememberDontCare.mp3
+s323736540.832854
+e323736540.883628
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/dontRememberDontCare.mp3
+xsheen/dontRememberDontCare.mp3
+lSLF07#2@35"Copy sheen/dontRememberDontCare.mp3323736540#323736540#0(0"0(0#0#66"/Users/thomasbailey/Desktop/sheenie/sheen/dontRememberDontCare.mp38622438848#477"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/dontRememberDontCare.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/dont_be_special.mp3 sheen/sheenquotes/dont_be_special.mp3
+s323736541.512478
+e323736541.555181
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/dont_be_special.mp3
+xsheen/sheenquotes/dont_be_special.mp3
+lSLF07#2@42"Copy sheen/sheenquotes/dont_be_special.mp3323736541#323736541#0(0"0(0#0#73"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/dont_be_special.mp38626077152#484"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/dont_be_special.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/droopyEyedArmlessChildren.mp3 sheen/droopyEyedArmlessChildren.mp3
+s323736540.840813
+e323736540.884761
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/droopyEyedArmlessChildren.mp3
+xsheen/droopyEyedArmlessChildren.mp3
+lSLF07#2@40"Copy sheen/droopyEyedArmlessChildren.mp3323736540#323736540#0(0"0(0#0#71"/Users/thomasbailey/Desktop/sheenie/sheen/droopyEyedArmlessChildren.mp38621020320#482"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/droopyEyedArmlessChildren.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/drugTestsDontLie.mp3 sheen/drugTestsDontLie.mp3
+s323736540.854253
+e323736540.889630
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/drugTestsDontLie.mp3
+xsheen/drugTestsDontLie.mp3
+lSLF07#2@31"Copy sheen/drugTestsDontLie.mp3323736540#323736540#0(0"0(0#0#62"/Users/thomasbailey/Desktop/sheenie/sheen/drugTestsDontLie.mp38612978688#473"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/drugTestsDontLie.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/dyingsForFools.mp3 sheen/dyingsForFools.mp3
+s323736540.868124
+e323736540.889490
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/dyingsForFools.mp3
+xsheen/dyingsForFools.mp3
+lSLF07#2@29"Copy sheen/dyingsForFools.mp3323736540#323736540#0(0"0(0#0#60"/Users/thomasbailey/Desktop/sheenie/sheen/dyingsForFools.mp38612018176#471"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/dyingsForFools.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/f18_bro.mp3 sheen/sheenquotes/f18_bro.mp3
+s323736541.516878
+e323736541.556142
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/f18_bro.mp3
+xsheen/sheenquotes/f18_bro.mp3
+lSLF07#2@34"Copy sheen/sheenquotes/f18_bro.mp3323736541#323736541#0(0"0(0#0#65"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/f18_bro.mp38625851296#476"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/f18_bro.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/fools_and_trolls.mp3 sheen/sheenquotes/fools_and_trolls.mp3
+s323736541.517643
+e323736541.686514
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/fools_and_trolls.mp3
+xsheen/sheenquotes/fools_and_trolls.mp3
+lSLF07#2@43"Copy sheen/sheenquotes/fools_and_trolls.mp3323736541#323736541#0(0"0(0#0#74"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/fools_and_trolls.mp38625662720#485"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/fools_and_trolls.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/go.mp3 sheen/go.mp3
+s323736540.877528
+e323736540.897097
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/go.mp3
+xsheen/go.mp3
+lSLF07#2@17"Copy sheen/go.mp3323736540#323736540#0(0"0(0#0#48"/Users/thomasbailey/Desktop/sheenie/sheen/go.mp38611492736#459"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/go.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/godNo.mp3 sheen/godNo.mp3
+s323736540.883739
+e323736540.967025
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/godNo.mp3
+xsheen/godNo.mp3
+lSLF07#2@20"Copy sheen/godNo.mp3323736540#323736540#0(0"0(0#0#51"/Users/thomasbailey/Desktop/sheenie/sheen/godNo.mp38607048416#462"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/godNo.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/iDontKnowMan.mp3 sheen/iDontKnowMan.mp3
+s323736540.884833
+e323736540.969467
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/iDontKnowMan.mp3
+xsheen/iDontKnowMan.mp3
+lSLF07#2@27"Copy sheen/iDontKnowMan.mp3323736540#323736540#0(0"0(0#0#58"/Users/thomasbailey/Desktop/sheenie/sheen/iDontKnowMan.mp38599297088#469"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/iDontKnowMan.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/iMissedPractice.mp3 sheen/iMissedPractice.mp3
+s323736540.890738
+e323736540.969583
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/iMissedPractice.mp3
+xsheen/iMissedPractice.mp3
+lSLF07#2@30"Copy sheen/iMissedPractice.mp3323736540#323736540#0(0"0(0#0#61"/Users/thomasbailey/Desktop/sheenie/sheen/iMissedPractice.mp38626678464#472"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/iMissedPractice.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/imBiWinning.mp3 sheen/imBiWinning.mp3
+s323736540.889722
+e323736540.969336
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/imBiWinning.mp3
+xsheen/imBiWinning.mp3
+lSLF07#2@26"Copy sheen/imBiWinning.mp3323736540#323736540#0(0"0(0#0#57"/Users/thomasbailey/Desktop/sheenie/sheen/imBiWinning.mp38626775168#468"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/imBiWinning.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/imOnADrugCalledCharlieSheen.mp3 sheen/imOnADrugCalledCharlieSheen.mp3
+s323736540.897267
+e323736540.995996
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/imOnADrugCalledCharlieSheen.mp3
+xsheen/imOnADrugCalledCharlieSheen.mp3
+lSLF07#2@42"Copy sheen/imOnADrugCalledCharlieSheen.mp3323736540#323736540#0(0"0(0#0#73"/Users/thomasbailey/Desktop/sheenie/sheen/imOnADrugCalledCharlieSheen.mp38626426592#484"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/imOnADrugCalledCharlieSheen.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/imTalkingAboutPractice.mp3 sheen/imTalkingAboutPractice.mp3
+s323736540.918898
+e323736540.987909
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/imTalkingAboutPractice.mp3
+xsheen/imTalkingAboutPractice.mp3
+lSLF07#2@37"Copy sheen/imTalkingAboutPractice.mp3323736540#323736540#0(0"0(0#0#68"/Users/thomasbailey/Desktop/sheenie/sheen/imTalkingAboutPractice.mp38626047520#479"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/imTalkingAboutPractice.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/in_the_orca.mp3 sheen/sheenquotes/in_the_orca.mp3
+s323736541.518285
+e323736541.557474
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/in_the_orca.mp3
+xsheen/sheenquotes/in_the_orca.mp3
+lSLF07#2@38"Copy sheen/sheenquotes/in_the_orca.mp3323736541#323736541#0(0"0(0#0#69"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/in_the_orca.mp38624408000#480"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/in_the_orca.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/itWasEpic.mp3 sheen/itWasEpic.mp3
+s323736540.967126
+e323736540.991803
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/itWasEpic.mp3
+xsheen/itWasEpic.mp3
+lSLF07#2@24"Copy sheen/itWasEpic.mp3323736540#323736540#0(0"0(0#0#55"/Users/thomasbailey/Desktop/sheenie/sheen/itWasEpic.mp38624447648#466"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/itWasEpic.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/itsNotAvailable.mp3 sheen/itsNotAvailable.mp3
+s323736540.924904
+e323736541.016227
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/itsNotAvailable.mp3
+xsheen/itsNotAvailable.mp3
+lSLF07#2@30"Copy sheen/itsNotAvailable.mp3323736540#323736541#0(0"0(0#0#61"/Users/thomasbailey/Desktop/sheenie/sheen/itsNotAvailable.mp38625763232#472"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/itsNotAvailable.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/justDoIt.mp3 sheen/justDoIt.mp3
+s323736540.969659
+e323736540.995810
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/justDoIt.mp3
+xsheen/justDoIt.mp3
+lSLF07#2@23"Copy sheen/justDoIt.mp3323736540#323736540#0(0"0(0#0#54"/Users/thomasbailey/Desktop/sheenie/sheen/justDoIt.mp38624269280#465"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/justDoIt.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/lastTimeITookDrugs.mp3 sheen/lastTimeITookDrugs.mp3
+s323736540.975720
+e323736541.016102
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/lastTimeITookDrugs.mp3
+xsheen/lastTimeITookDrugs.mp3
+lSLF07#2@33"Copy sheen/lastTimeITookDrugs.mp3323736540#323736541#0(0"0(0#0#64"/Users/thomasbailey/Desktop/sheenie/sheen/lastTimeITookDrugs.mp38624077728#475"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/lastTimeITookDrugs.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/like_the_view.mp3 sheen/sheenquotes/like_the_view.mp3
+s323736541.555291
+e323736541.687829
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/like_the_view.mp3
+xsheen/sheenquotes/like_the_view.mp3
+lSLF07#2@40"Copy sheen/sheenquotes/like_the_view.mp3323736541#323736541#0(0"0(0#0#71"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/like_the_view.mp38624185216#482"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/like_the_view.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/lookatme.mp3 sheen/lookatme.mp3
+s323736540.982492
+e323736541.016350
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/lookatme.mp3
+xsheen/lookatme.mp3
+lSLF07#2@23"Copy sheen/lookatme.mp3323736540#323736541#0(0"0(0#0#54"/Users/thomasbailey/Desktop/sheenie/sheen/lookatme.mp38623746400#465"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/lookatme.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/magic.mp3 sheen/sheenquotes/magic.mp3
+s323736541.556222
+e323736541.687426
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/magic.mp3
+xsheen/sheenquotes/magic.mp3
+lSLF07#2@32"Copy sheen/sheenquotes/magic.mp3323736541#323736541#0(0"0(0#0#63"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/magic.mp38623789536#474"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/magic.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/myPassion.mp3 sheen/myPassion.mp3
+s323736540.988007
+e323736541.031854
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/myPassion.mp3
+xsheen/myPassion.mp3
+lSLF07#2@24"Copy sheen/myPassion.mp3323736540#323736541#0(0"0(0#0#55"/Users/thomasbailey/Desktop/sheenie/sheen/myPassion.mp38623261472#466"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/myPassion.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/notFromThisTerrestrialRealm.mp3 sheen/notFromThisTerrestrialRealm.mp3
+s323736540.991894
+e323736541.049659
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/notFromThisTerrestrialRealm.mp3
+xsheen/notFromThisTerrestrialRealm.mp3
+lSLF07#2@42"Copy sheen/notFromThisTerrestrialRealm.mp3323736540#323736541#0(0"0(0#0#73"/Users/thomasbailey/Desktop/sheenie/sheen/notFromThisTerrestrialRealm.mp38622903040#484"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/notFromThisTerrestrialRealm.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/oneSpeedOneGear.mp3 sheen/oneSpeedOneGear.mp3
+s323736540.996300
+e323736541.031312
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/oneSpeedOneGear.mp3
+xsheen/oneSpeedOneGear.mp3
+lSLF07#2@30"Copy sheen/oneSpeedOneGear.mp3323736540#323736541#0(0"0(0#0#61"/Users/thomasbailey/Desktop/sheenie/sheen/oneSpeedOneGear.mp38622685408#472"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/oneSpeedOneGear.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/passion.mp3 sheen/passion.mp3
+s323736541.003247
+e323736541.031439
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/passion.mp3
+xsheen/passion.mp3
+lSLF07#2@22"Copy sheen/passion.mp3323736541#323736541#0(0"0(0#0#53"/Users/thomasbailey/Desktop/sheenie/sheen/passion.mp38622629920#464"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/passion.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/scoreBoardDoesntLie.mp3 sheen/scoreBoardDoesntLie.mp3
+s323736541.009372
+e323736541.031737
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/scoreBoardDoesntLie.mp3
+xsheen/scoreBoardDoesntLie.mp3
+lSLF07#2@34"Copy sheen/scoreBoardDoesntLie.mp3323736541#323736541#0(0"0(0#0#65"/Users/thomasbailey/Desktop/sheenie/sheen/scoreBoardDoesntLie.mp38622537856#476"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/scoreBoardDoesntLie.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/strafing_runs_in_underwear.mp3 sheen/sheenquotes/strafing_runs_in_underwear.mp3
+s323736541.557555
+e323736541.718610
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/strafing_runs_in_underwear.mp3
+xsheen/sheenquotes/strafing_runs_in_underwear.mp3
+lSLF07#2@53"Copy sheen/sheenquotes/strafing_runs_in_underwear.mp3323736541#323736541#0(0"0(0#0#84"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/strafing_runs_in_underwear.mp38623160736#495"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/strafing_runs_in_underwear.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/thatsHowIRoll.mp3 sheen/thatsHowIRoll.mp3
+s323736541.016426
+e323736541.049787
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/thatsHowIRoll.mp3
+xsheen/thatsHowIRoll.mp3
+lSLF07#2@28"Copy sheen/thatsHowIRoll.mp3323736541#323736541#0(0"0(0#0#59"/Users/thomasbailey/Desktop/sheenie/sheen/thatsHowIRoll.mp38622099488#470"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/thatsHowIRoll.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/theNikeSlogan.mp3 sheen/theNikeSlogan.mp3
+s323736541.020805
+e323736541.066184
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/theNikeSlogan.mp3
+xsheen/theNikeSlogan.mp3
+lSLF07#2@28"Copy sheen/theNikeSlogan.mp3323736541#323736541#0(0"0(0#0#59"/Users/thomasbailey/Desktop/sheenie/sheen/theNikeSlogan.mp38621882208#470"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/theNikeSlogan.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/uhOk.mp3 sheen/uhOk.mp3
+s323736541.028322
+e323736541.049901
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/uhOk.mp3
+xsheen/uhOk.mp3
+lSLF07#2@19"Copy sheen/uhOk.mp3323736541#323736541#0(0"0(0#0#50"/Users/thomasbailey/Desktop/sheenie/sheen/uhOk.mp38621693120#461"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/uhOk.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/um.mp3 sheen/um.mp3
+s323736541.030234
+e323736541.050013
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/um.mp3
+xsheen/um.mp3
+lSLF07#2@17"Copy sheen/um.mp3323736541#323736541#0(0"0(0#0#48"/Users/thomasbailey/Desktop/sheenie/sheen/um.mp38621517120#459"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/um.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/whats_the_cure.mp3 sheen/sheenquotes/whats_the_cure.mp3
+s323736541.622141
+e323736541.718300
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/whats_the_cure.mp3
+xsheen/sheenquotes/whats_the_cure.mp3
+lSLF07#2@41"Copy sheen/sheenquotes/whats_the_cure.mp3323736541#323736541#0(0"0(0#0#72"/Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/whats_the_cure.mp38622862912#483"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/sheenquotes/whats_the_cure.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/wowWhatDoesThatMean.mp3 sheen/wowWhatDoesThatMean.mp3
+s323736541.031922
+e323736541.065928
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/wowWhatDoesThatMean.mp3
+xsheen/wowWhatDoesThatMean.mp3
+lSLF07#2@34"Copy sheen/wowWhatDoesThatMean.mp3323736541#323736541#0(0"0(0#0#65"/Users/thomasbailey/Desktop/sheenie/sheen/wowWhatDoesThatMean.mp38626700896#476"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/wowWhatDoesThatMean.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/wowWinning.mp3 sheen/wowWinning.mp3
+s323736541.039944
+e323736541.066068
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/wowWinning.mp3
+xsheen/wowWinning.mp3
+lSLF07#2@25"Copy sheen/wowWinning.mp3323736541#323736541#0(0"0(0#0#56"/Users/thomasbailey/Desktop/sheenie/sheen/wowWinning.mp38621175040#467"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/wowWinning.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/yeah.mp3 sheen/yeah.mp3
+s323736541.041273
+e323736541.071407
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/yeah.mp3
+xsheen/yeah.mp3
+lSLF07#2@19"Copy sheen/yeah.mp3323736541#323736541#0(0"0(0#0#50"/Users/thomasbailey/Desktop/sheenie/sheen/yeah.mp38621031232#461"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/yeah.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CCpResource build/Debug-iphonesimulator/sheen.app/youBorrowMyBrain.mp3 sheen/youBorrowMyBrain.mp3
+s323736541.046872
+e323736541.089509
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sheen.app/youBorrowMyBrain.mp3
+xsheen/youBorrowMyBrain.mp3
+lSLF07#2@31"Copy sheen/youBorrowMyBrain.mp3323736541#323736541#0(0"0(0#0#62"/Users/thomasbailey/Desktop/sheenie/sheen/youBorrowMyBrain.mp38623393696#473"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasbailey/Desktop/sheenie/sheen/youBorrowMyBrain.mp3 /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+
+CGenerateDSYMFile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app.dSYM /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen
+s323736539.390117
+e323736539.415791
+r1
+xGenerateDSYMFile
+x/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app.dSYM
+x/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/sheen.app.dSYM build/Debug-iphonesimulator/sheen.app/sheen323736539#323736540#0(0"0(0#0#79"/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen8626909472#368"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen -o /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app.dSYM0#
+
+CLd /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen normal i386
+s323736538.332010
+e323736539.389931
+r1
+xLd
+x/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen
+xnormal
+xi386
+lSLF07#2@84"Link /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen323736538#323736540#0(0"0(0#0#0"8622183680#913"    cd /Users/thomasbailey/Desktop/sheenie    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator -F/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator -filelist /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/Objects-normal/i386/sheen.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework AVFoundation -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/sheen0#
+
+CProcessInfoPlistFile /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Info.plist sheen/sheen-Info.plist
+s323736531.778816
+e323736531.890908
+r1
+xProcessInfoPlistFile
+x/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Info.plist
+xsheen/sheen-Info.plist
+lSLF07#2@30"Process sheen/sheen-Info.plist323736531#323736531#0(0"0(0#0#58"/Users/thomasbailey/Desktop/sheenie/sheen/sheen-Info.plist32370056120631408#470"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility sheen/sheen-Info.plist -genpkginfo /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app/Info.plist0#
+
+CProcessPCH /var/folders/ye/ye5pFS5MFzeFIOuuKPm7TU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sheen-Prefix-amqwobscycroxgdyanbvsduxbotj/sheen-Prefix.pch.gch sheen/sheen-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s323736531.891043
+e323736537.385770
+r1
+xProcessPCH
+x/var/folders/ye/ye5pFS5MFzeFIOuuKPm7TU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sheen-Prefix-amqwobscycroxgdyanbvsduxbotj/sheen-Prefix.pch.gch
+xsheen/sheen-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@33"Precompile sheen/sheen-Prefix.pch323736531#323736538#0(0"0(0#0#58"/Users/thomasbailey/Desktop/sheenie/sheen/sheen-Prefix.pch8626891584#1833"    cd /Users/thomasbailey/Desktop/sheenie    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-generated-files.hmap -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-own-target-headers.hmap -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-all-target-headers.hmap -iquote /Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/sheen-project-headers.hmap -F/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator -I/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/include -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/DerivedSources/i386 -I/Users/thomasbailey/Desktop/sheenie/build/sheen.build/Debug-iphonesimulator/sheen.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c /Users/thomasbailey/Desktop/sheenie/sheen/sheen-Prefix.pch -o /var/folders/ye/ye5pFS5MFzeFIOuuKPm7TU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sheen-Prefix-amqwobscycroxgdyanbvsduxbotj/sheen-Prefix.pch.gch0#
+
+CTouch /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app
+s323736541.810699
+e323736541.818184
+r1
+xTouch
+x/Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app
+lSLF07#2@79"Touch /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app323736541#323736541#0(0"0(0#0#0"8622680672#270"    cd /Users/thomasbailey/Desktop/sheenie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/thomasbailey/Desktop/sheenie/build/Debug-iphonesimulator/sheen.app0#
+

@@ -8,8 +8,9 @@
 
 #import <UIKit/UIKit.h>
 #import <AVFoundation/AVAudioPlayer.h>
+#import "SheenSoundBoard.h"
 
-@interface sheenViewController : UIViewController <AVAudioPlayerDelegate>
+@interface sheenViewController : UIViewController <AVAudioPlayerDelegate, SheenSoundBoardDelegate>
 {
     NSMutableDictionary* imagesDictionary;
     NSMutableDictionary* audioDictionary;
